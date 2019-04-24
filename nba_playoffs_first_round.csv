@@ -1,0 +1,708 @@
+game,date,home_team,home_team_score,away_team,away_team_score,year,series_id,game_winner_column,game_winning_team,best_of_five_winner,best_of_seven_winner,best_of_seven_loser,series_too_long
+Game 1,"Sat, April 19",Boston Celtics,103,Indiana Pacers,100,2003,BostonCeltics_IndianaPacers_2003,home_team,Boston Celtics,Boston Celtics,Boston Celtics,Indiana Pacers,True
+Game 2,"Mon, April 21",Boston Celtics,77,Indiana Pacers,89,2003,BostonCeltics_IndianaPacers_2003,away_team,Indiana Pacers,Boston Celtics,Boston Celtics,Indiana Pacers,True
+Game 3,"Thu, April 24",Indiana Pacers,83,Boston Celtics,101,2003,BostonCeltics_IndianaPacers_2003,away_team,Boston Celtics,Boston Celtics,Boston Celtics,Indiana Pacers,True
+Game 4,"Sun, April 27",Indiana Pacers,92,Boston Celtics,102,2003,BostonCeltics_IndianaPacers_2003,away_team,Boston Celtics,Boston Celtics,Boston Celtics,Indiana Pacers,True
+Game 5,"Tue, April 29",Boston Celtics,88,Indiana Pacers,93,2003,BostonCeltics_IndianaPacers_2003,away_team,Indiana Pacers,Boston Celtics,Boston Celtics,Indiana Pacers,True
+Game 6,"Thu, May 1",Indiana Pacers,90,Boston Celtics,110,2003,BostonCeltics_IndianaPacers_2003,away_team,Boston Celtics,Boston Celtics,Boston Celtics,Indiana Pacers,True
+Game 1,"Sun, April 20",Orlando Magic,99,Detroit Pistons,94,2003,OrlandoMagic_DetroitPistons_2003,home_team,Orlando Magic,Orlando Magic,Detroit Pistons,Orlando Magic,False
+Game 2,"Wed, April 23",Orlando Magic,77,Detroit Pistons,89,2003,OrlandoMagic_DetroitPistons_2003,away_team,Detroit Pistons,Orlando Magic,Detroit Pistons,Orlando Magic,False
+Game 3,"Fri, April 25",Detroit Pistons,80,Orlando Magic,89,2003,OrlandoMagic_DetroitPistons_2003,away_team,Orlando Magic,Orlando Magic,Detroit Pistons,Orlando Magic,False
+Game 4,"Sun, April 27",Detroit Pistons,92,Orlando Magic,100,2003,OrlandoMagic_DetroitPistons_2003,away_team,Orlando Magic,Orlando Magic,Detroit Pistons,Orlando Magic,False
+Game 5,"Wed, April 30",Orlando Magic,67,Detroit Pistons,98,2003,OrlandoMagic_DetroitPistons_2003,away_team,Detroit Pistons,Orlando Magic,Detroit Pistons,Orlando Magic,False
+Game 6,"Fri, May 2",Detroit Pistons,103,Orlando Magic,88,2003,OrlandoMagic_DetroitPistons_2003,home_team,Detroit Pistons,Orlando Magic,Detroit Pistons,Orlando Magic,False
+Game 7,"Sun, May 4",Orlando Magic,93,Detroit Pistons,108,2003,OrlandoMagic_DetroitPistons_2003,away_team,Detroit Pistons,Orlando Magic,Detroit Pistons,Orlando Magic,False
+Game 1,"Sat, April 19",Milwaukee Bucks,96,New Jersey Nets,109,2003,MilwaukeeBucks_NewJerseyNets_2003,away_team,New Jersey Nets,New Jersey Nets,New Jersey Nets,Milwaukee Bucks,True
+Game 2,"Tue, April 22",Milwaukee Bucks,88,New Jersey Nets,85,2003,MilwaukeeBucks_NewJerseyNets_2003,home_team,Milwaukee Bucks,New Jersey Nets,New Jersey Nets,Milwaukee Bucks,True
+Game 3,"Thu, April 24",New Jersey Nets,103,Milwaukee Bucks,101,2003,MilwaukeeBucks_NewJerseyNets_2003,home_team,New Jersey Nets,New Jersey Nets,New Jersey Nets,Milwaukee Bucks,True
+Game 4,"Sat, April 26",New Jersey Nets,114,Milwaukee Bucks,119,2003,MilwaukeeBucks_NewJerseyNets_2003,away_team,Milwaukee Bucks,New Jersey Nets,New Jersey Nets,Milwaukee Bucks,True
+Game 5,"Tue, April 29",Milwaukee Bucks,82,New Jersey Nets,89,2003,MilwaukeeBucks_NewJerseyNets_2003,away_team,New Jersey Nets,New Jersey Nets,New Jersey Nets,Milwaukee Bucks,True
+Game 6,"Thu, May 1",New Jersey Nets,113,Milwaukee Bucks,101,2003,MilwaukeeBucks_NewJerseyNets_2003,home_team,New Jersey Nets,New Jersey Nets,New Jersey Nets,Milwaukee Bucks,True
+Game 1,"Sun, April 20",New Orleans Hornets,90,Philadelphia 76ers,98,2003,NewOrleansHornets_Philadelphia76ers_2003,away_team,Philadelphia 76ers,Philadelphia 76ers,Philadelphia 76ers,New Orleans Hornets,True
+Game 2,"Wed, April 23",New Orleans Hornets,85,Philadelphia 76ers,90,2003,NewOrleansHornets_Philadelphia76ers_2003,away_team,Philadelphia 76ers,Philadelphia 76ers,Philadelphia 76ers,New Orleans Hornets,True
+Game 3,"Sat, April 26",Philadelphia 76ers,85,New Orleans Hornets,99,2003,NewOrleansHornets_Philadelphia76ers_2003,away_team,New Orleans Hornets,Philadelphia 76ers,Philadelphia 76ers,New Orleans Hornets,True
+Game 4,"Mon, April 28",Philadelphia 76ers,96,New Orleans Hornets,87,2003,NewOrleansHornets_Philadelphia76ers_2003,home_team,Philadelphia 76ers,Philadelphia 76ers,Philadelphia 76ers,New Orleans Hornets,True
+Game 5,"Wed, April 30",New Orleans Hornets,93,Philadelphia 76ers,91,2003,NewOrleansHornets_Philadelphia76ers_2003,home_team,New Orleans Hornets,Philadelphia 76ers,Philadelphia 76ers,New Orleans Hornets,True
+Game 6,"Fri, May 2",Philadelphia 76ers,107,New Orleans Hornets,103,2003,NewOrleansHornets_Philadelphia76ers_2003,home_team,Philadelphia 76ers,Philadelphia 76ers,Philadelphia 76ers,New Orleans Hornets,True
+Game 1,"Sat, April 19",Portland Trail Blazers,86,Dallas Mavericks,96,2003,PortlandTrailBlazers_DallasMavericks_2003,away_team,Dallas Mavericks,Dallas Mavericks,Dallas Mavericks,Portland Trail Blazers,True
+Game 2,"Wed, April 23",Portland Trail Blazers,99,Dallas Mavericks,103,2003,PortlandTrailBlazers_DallasMavericks_2003,away_team,Dallas Mavericks,Dallas Mavericks,Dallas Mavericks,Portland Trail Blazers,True
+Game 3,"Fri, April 25",Dallas Mavericks,115,Portland Trail Blazers,103,2003,PortlandTrailBlazers_DallasMavericks_2003,home_team,Dallas Mavericks,Dallas Mavericks,Dallas Mavericks,Portland Trail Blazers,True
+Game 4,"Sun, April 27",Dallas Mavericks,79,Portland Trail Blazers,98,2003,PortlandTrailBlazers_DallasMavericks_2003,away_team,Portland Trail Blazers,Dallas Mavericks,Dallas Mavericks,Portland Trail Blazers,True
+Game 5,"Wed, April 30",Portland Trail Blazers,103,Dallas Mavericks,99,2003,PortlandTrailBlazers_DallasMavericks_2003,home_team,Portland Trail Blazers,Dallas Mavericks,Dallas Mavericks,Portland Trail Blazers,True
+Game 6,"Fri, May 2",Dallas Mavericks,103,Portland Trail Blazers,125,2003,PortlandTrailBlazers_DallasMavericks_2003,away_team,Portland Trail Blazers,Dallas Mavericks,Dallas Mavericks,Portland Trail Blazers,True
+Game 7,"Sun, May 4",Portland Trail Blazers,95,Dallas Mavericks,107,2003,PortlandTrailBlazers_DallasMavericks_2003,away_team,Dallas Mavericks,Dallas Mavericks,Dallas Mavericks,Portland Trail Blazers,True
+Game 1,"Sun, April 20",Los Angeles Lakers,117,Minnesota Timberwolves,98,2003,LosAngelesLakers_MinnesotaTimberwolves_2003,home_team,Los Angeles Lakers,Los Angeles Lakers,Los Angeles Lakers,Minnesota Timberwolves,True
+Game 2,"Tue, April 22",Los Angeles Lakers,91,Minnesota Timberwolves,119,2003,LosAngelesLakers_MinnesotaTimberwolves_2003,away_team,Minnesota Timberwolves,Los Angeles Lakers,Los Angeles Lakers,Minnesota Timberwolves,True
+Game 3,"Thu, April 24",Minnesota Timberwolves,114,Los Angeles Lakers,110,2003,LosAngelesLakers_MinnesotaTimberwolves_2003,home_team,Minnesota Timberwolves,Los Angeles Lakers,Los Angeles Lakers,Minnesota Timberwolves,True
+Game 4,"Sun, April 27",Minnesota Timberwolves,97,Los Angeles Lakers,102,2003,LosAngelesLakers_MinnesotaTimberwolves_2003,away_team,Los Angeles Lakers,Los Angeles Lakers,Los Angeles Lakers,Minnesota Timberwolves,True
+Game 5,"Tue, April 29",Los Angeles Lakers,120,Minnesota Timberwolves,90,2003,LosAngelesLakers_MinnesotaTimberwolves_2003,home_team,Los Angeles Lakers,Los Angeles Lakers,Los Angeles Lakers,Minnesota Timberwolves,True
+Game 6,"Thu, May 1",Minnesota Timberwolves,85,Los Angeles Lakers,101,2003,LosAngelesLakers_MinnesotaTimberwolves_2003,away_team,Los Angeles Lakers,Los Angeles Lakers,Los Angeles Lakers,Minnesota Timberwolves,True
+Game 1,"Sat, April 19",Utah Jazz,90,Sacramento Kings,96,2003,UtahJazz_SacramentoKings_2003,away_team,Sacramento Kings,Sacramento Kings,Sacramento Kings,Utah Jazz,True
+Game 2,"Mon, April 21",Utah Jazz,95,Sacramento Kings,108,2003,UtahJazz_SacramentoKings_2003,away_team,Sacramento Kings,Sacramento Kings,Sacramento Kings,Utah Jazz,True
+Game 3,"Sat, April 26",Sacramento Kings,104,Utah Jazz,107,2003,UtahJazz_SacramentoKings_2003,away_team,Utah Jazz,Sacramento Kings,Sacramento Kings,Utah Jazz,True
+Game 4,"Mon, April 28",Sacramento Kings,99,Utah Jazz,82,2003,UtahJazz_SacramentoKings_2003,home_team,Sacramento Kings,Sacramento Kings,Sacramento Kings,Utah Jazz,True
+Game 5,"Wed, April 30",Utah Jazz,91,Sacramento Kings,111,2003,UtahJazz_SacramentoKings_2003,away_team,Sacramento Kings,Sacramento Kings,Sacramento Kings,Utah Jazz,True
+Game 1,"Sat, April 19",Phoenix Suns,96,San Antonio Spurs,95,2003,PhoenixSuns_SanAntonioSpurs_2003,home_team,Phoenix Suns,San Antonio Spurs,San Antonio Spurs,Phoenix Suns,True
+Game 2,"Mon, April 21",Phoenix Suns,76,San Antonio Spurs,84,2003,PhoenixSuns_SanAntonioSpurs_2003,away_team,San Antonio Spurs,San Antonio Spurs,San Antonio Spurs,Phoenix Suns,True
+Game 3,"Fri, April 25",San Antonio Spurs,99,Phoenix Suns,86,2003,PhoenixSuns_SanAntonioSpurs_2003,home_team,San Antonio Spurs,San Antonio Spurs,San Antonio Spurs,Phoenix Suns,True
+Game 4,"Sun, April 27",San Antonio Spurs,84,Phoenix Suns,86,2003,PhoenixSuns_SanAntonioSpurs_2003,away_team,Phoenix Suns,San Antonio Spurs,San Antonio Spurs,Phoenix Suns,True
+Game 5,"Tue, April 29",Phoenix Suns,82,San Antonio Spurs,94,2003,PhoenixSuns_SanAntonioSpurs_2003,away_team,San Antonio Spurs,San Antonio Spurs,San Antonio Spurs,Phoenix Suns,True
+Game 6,"Thu, May 1",San Antonio Spurs,87,Phoenix Suns,85,2003,PhoenixSuns_SanAntonioSpurs_2003,home_team,San Antonio Spurs,San Antonio Spurs,San Antonio Spurs,Phoenix Suns,True
+Game 1,"Sun, April 18",Milwaukee Bucks,82,Detroit Pistons,108,2004,MilwaukeeBucks_DetroitPistons_2004,away_team,Detroit Pistons,Detroit Pistons,Detroit Pistons,Milwaukee Bucks,True
+Game 2,"Wed, April 21",Milwaukee Bucks,92,Detroit Pistons,88,2004,MilwaukeeBucks_DetroitPistons_2004,home_team,Milwaukee Bucks,Detroit Pistons,Detroit Pistons,Milwaukee Bucks,True
+Game 3,"Sat, April 24",Detroit Pistons,95,Milwaukee Bucks,85,2004,MilwaukeeBucks_DetroitPistons_2004,home_team,Detroit Pistons,Detroit Pistons,Detroit Pistons,Milwaukee Bucks,True
+Game 4,"Mon, April 26",Detroit Pistons,109,Milwaukee Bucks,92,2004,MilwaukeeBucks_DetroitPistons_2004,home_team,Detroit Pistons,Detroit Pistons,Detroit Pistons,Milwaukee Bucks,True
+Game 5,"Thu, April 29",Milwaukee Bucks,77,Detroit Pistons,91,2004,MilwaukeeBucks_DetroitPistons_2004,away_team,Detroit Pistons,Detroit Pistons,Detroit Pistons,Milwaukee Bucks,True
+Game 1,"Sat, April 17",Boston Celtics,88,Indiana Pacers,104,2004,BostonCeltics_IndianaPacers_2004,away_team,Indiana Pacers,Indiana Pacers,Indiana Pacers,Indiana Pacers,True
+Game 2,"Tue, April 20",Boston Celtics,90,Indiana Pacers,103,2004,BostonCeltics_IndianaPacers_2004,away_team,Indiana Pacers,Indiana Pacers,Indiana Pacers,Indiana Pacers,True
+Game 3,"Fri, April 23",Indiana Pacers,108,Boston Celtics,85,2004,BostonCeltics_IndianaPacers_2004,home_team,Indiana Pacers,Indiana Pacers,Indiana Pacers,Indiana Pacers,True
+Game 4,"Sun, April 25",Indiana Pacers,90,Boston Celtics,75,2004,BostonCeltics_IndianaPacers_2004,home_team,Indiana Pacers,Indiana Pacers,Indiana Pacers,Indiana Pacers,True
+Game 1,"Sun, April 18",New Orleans Hornets,79,Miami Heat,81,2004,NewOrleansHornets_MiamiHeat_2004,away_team,Miami Heat,Miami Heat,Miami Heat,New Orleans Hornets,True
+Game 2,"Wed, April 21",New Orleans Hornets,63,Miami Heat,93,2004,NewOrleansHornets_MiamiHeat_2004,away_team,Miami Heat,Miami Heat,Miami Heat,New Orleans Hornets,True
+Game 3,"Sat, April 24",Miami Heat,71,New Orleans Hornets,77,2004,NewOrleansHornets_MiamiHeat_2004,away_team,New Orleans Hornets,Miami Heat,Miami Heat,New Orleans Hornets,True
+Game 4,"Tue, April 27",Miami Heat,85,New Orleans Hornets,96,2004,NewOrleansHornets_MiamiHeat_2004,away_team,New Orleans Hornets,Miami Heat,Miami Heat,New Orleans Hornets,True
+Game 5,"Fri, April 30",New Orleans Hornets,83,Miami Heat,87,2004,NewOrleansHornets_MiamiHeat_2004,away_team,Miami Heat,Miami Heat,Miami Heat,New Orleans Hornets,True
+Game 6,"Sun, May 2",Miami Heat,83,New Orleans Hornets,89,2004,NewOrleansHornets_MiamiHeat_2004,away_team,New Orleans Hornets,Miami Heat,Miami Heat,New Orleans Hornets,True
+Game 7,"Tue, May 4",New Orleans Hornets,77,Miami Heat,85,2004,NewOrleansHornets_MiamiHeat_2004,away_team,Miami Heat,Miami Heat,Miami Heat,New Orleans Hornets,True
+Game 1,"Sat, April 17",New York Knicks,83,New Jersey Nets,107,2004,NewYorkKnicks_NewJerseyNets_2004,away_team,New Jersey Nets,New Jersey Nets,New Jersey Nets,New Jersey Nets,True
+Game 2,"Tue, April 20",New York Knicks,81,New Jersey Nets,99,2004,NewYorkKnicks_NewJerseyNets_2004,away_team,New Jersey Nets,New Jersey Nets,New Jersey Nets,New Jersey Nets,True
+Game 3,"Thu, April 22",New Jersey Nets,81,New York Knicks,78,2004,NewYorkKnicks_NewJerseyNets_2004,home_team,New Jersey Nets,New Jersey Nets,New Jersey Nets,New Jersey Nets,True
+Game 4,"Sun, April 25",New Jersey Nets,100,New York Knicks,94,2004,NewYorkKnicks_NewJerseyNets_2004,home_team,New Jersey Nets,New Jersey Nets,New Jersey Nets,New Jersey Nets,True
+Game 1,"Sat, April 17",Houston Rockets,71,Los Angeles Lakers,72,2004,HoustonRockets_LosAngelesLakers_2004,away_team,Los Angeles Lakers,Los Angeles Lakers,Los Angeles Lakers,Houston Rockets,True
+Game 2,"Mon, April 19",Houston Rockets,84,Los Angeles Lakers,98,2004,HoustonRockets_LosAngelesLakers_2004,away_team,Los Angeles Lakers,Los Angeles Lakers,Los Angeles Lakers,Houston Rockets,True
+Game 3,"Fri, April 23",Los Angeles Lakers,91,Houston Rockets,102,2004,HoustonRockets_LosAngelesLakers_2004,away_team,Houston Rockets,Los Angeles Lakers,Los Angeles Lakers,Houston Rockets,True
+Game 4,"Sun, April 25",Los Angeles Lakers,92,Houston Rockets,88,2004,HoustonRockets_LosAngelesLakers_2004,home_team,Los Angeles Lakers,Los Angeles Lakers,Los Angeles Lakers,Houston Rockets,True
+Game 5,"Wed, April 28",Houston Rockets,78,Los Angeles Lakers,97,2004,HoustonRockets_LosAngelesLakers_2004,away_team,Los Angeles Lakers,Los Angeles Lakers,Los Angeles Lakers,Houston Rockets,True
+Game 1,"Sun, April 18",Denver Nuggets,92,Minnesota Timberwolves,106,2004,DenverNuggets_MinnesotaTimberwolves_2004,away_team,Minnesota Timberwolves,Minnesota Timberwolves,Minnesota Timberwolves,Denver Nuggets,True
+Game 2,"Wed, April 21",Denver Nuggets,81,Minnesota Timberwolves,95,2004,DenverNuggets_MinnesotaTimberwolves_2004,away_team,Minnesota Timberwolves,Minnesota Timberwolves,Minnesota Timberwolves,Denver Nuggets,True
+Game 3,"Sat, April 24",Minnesota Timberwolves,86,Denver Nuggets,107,2004,DenverNuggets_MinnesotaTimberwolves_2004,away_team,Denver Nuggets,Minnesota Timberwolves,Minnesota Timberwolves,Denver Nuggets,True
+Game 4,"Tue, April 27",Minnesota Timberwolves,84,Denver Nuggets,82,2004,DenverNuggets_MinnesotaTimberwolves_2004,home_team,Minnesota Timberwolves,Minnesota Timberwolves,Minnesota Timberwolves,Denver Nuggets,True
+Game 5,"Fri, April 30",Denver Nuggets,91,Minnesota Timberwolves,102,2004,DenverNuggets_MinnesotaTimberwolves_2004,away_team,Minnesota Timberwolves,Minnesota Timberwolves,Minnesota Timberwolves,Denver Nuggets,True
+Game 1,"Sun, April 18",Dallas Mavericks,105,Sacramento Kings,116,2004,DallasMavericks_SacramentoKings_2004,away_team,Sacramento Kings,Sacramento Kings,Sacramento Kings,Dallas Mavericks,True
+Game 2,"Tue, April 20",Dallas Mavericks,79,Sacramento Kings,83,2004,DallasMavericks_SacramentoKings_2004,away_team,Sacramento Kings,Sacramento Kings,Sacramento Kings,Dallas Mavericks,True
+Game 3,"Sat, April 24",Sacramento Kings,79,Dallas Mavericks,104,2004,DallasMavericks_SacramentoKings_2004,away_team,Dallas Mavericks,Sacramento Kings,Sacramento Kings,Dallas Mavericks,True
+Game 4,"Mon, April 26",Sacramento Kings,94,Dallas Mavericks,92,2004,DallasMavericks_SacramentoKings_2004,home_team,Sacramento Kings,Sacramento Kings,Sacramento Kings,Dallas Mavericks,True
+Game 5,"Thu, April 29",Dallas Mavericks,118,Sacramento Kings,119,2004,DallasMavericks_SacramentoKings_2004,away_team,Sacramento Kings,Sacramento Kings,Sacramento Kings,Dallas Mavericks,True
+Game 1,"Sat, April 17",Memphis Grizzlies,74,San Antonio Spurs,98,2004,MemphisGrizzlies_SanAntonioSpurs_2004,away_team,San Antonio Spurs,San Antonio Spurs,San Antonio Spurs,San Antonio Spurs,True
+Game 2,"Mon, April 19",Memphis Grizzlies,70,San Antonio Spurs,87,2004,MemphisGrizzlies_SanAntonioSpurs_2004,away_team,San Antonio Spurs,San Antonio Spurs,San Antonio Spurs,San Antonio Spurs,True
+Game 3,"Thu, April 22",San Antonio Spurs,95,Memphis Grizzlies,93,2004,MemphisGrizzlies_SanAntonioSpurs_2004,home_team,San Antonio Spurs,San Antonio Spurs,San Antonio Spurs,San Antonio Spurs,True
+Game 4,"Sun, April 25",San Antonio Spurs,110,Memphis Grizzlies,97,2004,MemphisGrizzlies_SanAntonioSpurs_2004,home_team,San Antonio Spurs,San Antonio Spurs,San Antonio Spurs,San Antonio Spurs,True
+Game 1,"Sat, April 23",Philadelphia 76ers,85,Detroit Pistons,106,2005,Philadelphia76ers_DetroitPistons_2005,away_team,Detroit Pistons,Detroit Pistons,Detroit Pistons,Philadelphia 76ers,True
+Game 2,"Tue, April 26",Philadelphia 76ers,84,Detroit Pistons,99,2005,Philadelphia76ers_DetroitPistons_2005,away_team,Detroit Pistons,Detroit Pistons,Detroit Pistons,Philadelphia 76ers,True
+Game 3,"Fri, April 29",Detroit Pistons,104,Philadelphia 76ers,115,2005,Philadelphia76ers_DetroitPistons_2005,away_team,Philadelphia 76ers,Detroit Pistons,Detroit Pistons,Philadelphia 76ers,True
+Game 4,"Sun, May 1",Detroit Pistons,97,Philadelphia 76ers,92,2005,Philadelphia76ers_DetroitPistons_2005,home_team,Detroit Pistons,Detroit Pistons,Detroit Pistons,Philadelphia 76ers,True
+Game 5,"Tue, May 3",Philadelphia 76ers,78,Detroit Pistons,88,2005,Philadelphia76ers_DetroitPistons_2005,away_team,Detroit Pistons,Detroit Pistons,Detroit Pistons,Philadelphia 76ers,True
+Game 1,"Sat, April 23",Indiana Pacers,82,Boston Celtics,102,2005,IndianaPacers_BostonCeltics_2005,away_team,Boston Celtics,Indiana Pacers,Indiana Pacers,Boston Celtics,True
+Game 2,"Mon, April 25",Indiana Pacers,82,Boston Celtics,79,2005,IndianaPacers_BostonCeltics_2005,home_team,Indiana Pacers,Indiana Pacers,Indiana Pacers,Boston Celtics,True
+Game 3,"Thu, April 28",Boston Celtics,76,Indiana Pacers,99,2005,IndianaPacers_BostonCeltics_2005,away_team,Indiana Pacers,Indiana Pacers,Indiana Pacers,Boston Celtics,True
+Game 4,"Sat, April 30",Boston Celtics,110,Indiana Pacers,79,2005,IndianaPacers_BostonCeltics_2005,home_team,Boston Celtics,Indiana Pacers,Indiana Pacers,Boston Celtics,True
+Game 5,"Tue, May 3",Indiana Pacers,90,Boston Celtics,85,2005,IndianaPacers_BostonCeltics_2005,home_team,Indiana Pacers,Indiana Pacers,Indiana Pacers,Boston Celtics,True
+Game 6,"Thu, May 5",Boston Celtics,92,Indiana Pacers,89,2005,IndianaPacers_BostonCeltics_2005,home_team,Boston Celtics,Indiana Pacers,Indiana Pacers,Boston Celtics,True
+Game 7,"Sat, May 7",Indiana Pacers,97,Boston Celtics,70,2005,IndianaPacers_BostonCeltics_2005,home_team,Indiana Pacers,Indiana Pacers,Indiana Pacers,Boston Celtics,True
+Game 1,"Sun, April 24",New Jersey Nets,98,Miami Heat,116,2005,NewJerseyNets_MiamiHeat_2005,away_team,Miami Heat,Miami Heat,Miami Heat,Miami Heat,True
+Game 2,"Tue, April 26",New Jersey Nets,87,Miami Heat,104,2005,NewJerseyNets_MiamiHeat_2005,away_team,Miami Heat,Miami Heat,Miami Heat,Miami Heat,True
+Game 3,"Thu, April 28",Miami Heat,108,New Jersey Nets,105,2005,NewJerseyNets_MiamiHeat_2005,home_team,Miami Heat,Miami Heat,Miami Heat,Miami Heat,True
+Game 4,"Sun, May 1",Miami Heat,110,New Jersey Nets,97,2005,NewJerseyNets_MiamiHeat_2005,home_team,Miami Heat,Miami Heat,Miami Heat,Miami Heat,True
+Game 1,"Sun, April 24",Washington Wizards,94,Chicago Bulls,103,2005,WashingtonWizards_ChicagoBulls_2005,away_team,Chicago Bulls,Washington Wizards,Washington Wizards,Chicago Bulls,True
+Game 2,"Wed, April 27",Washington Wizards,103,Chicago Bulls,113,2005,WashingtonWizards_ChicagoBulls_2005,away_team,Chicago Bulls,Washington Wizards,Washington Wizards,Chicago Bulls,True
+Game 3,"Sat, April 30",Chicago Bulls,99,Washington Wizards,117,2005,WashingtonWizards_ChicagoBulls_2005,away_team,Washington Wizards,Washington Wizards,Washington Wizards,Chicago Bulls,True
+Game 4,"Mon, May 2",Chicago Bulls,99,Washington Wizards,106,2005,WashingtonWizards_ChicagoBulls_2005,away_team,Washington Wizards,Washington Wizards,Washington Wizards,Chicago Bulls,True
+Game 5,"Wed, May 4",Washington Wizards,112,Chicago Bulls,110,2005,WashingtonWizards_ChicagoBulls_2005,home_team,Washington Wizards,Washington Wizards,Washington Wizards,Chicago Bulls,True
+Game 6,"Fri, May 6",Chicago Bulls,91,Washington Wizards,94,2005,WashingtonWizards_ChicagoBulls_2005,away_team,Washington Wizards,Washington Wizards,Washington Wizards,Chicago Bulls,True
+Game 1,"Sat, April 23",Houston Rockets,98,Dallas Mavericks,86,2005,HoustonRockets_DallasMavericks_2005,home_team,Houston Rockets,Dallas Mavericks,Dallas Mavericks,Houston Rockets,True
+Game 2,"Mon, April 25",Houston Rockets,113,Dallas Mavericks,111,2005,HoustonRockets_DallasMavericks_2005,home_team,Houston Rockets,Dallas Mavericks,Dallas Mavericks,Houston Rockets,True
+Game 3,"Thu, April 28",Dallas Mavericks,106,Houston Rockets,102,2005,HoustonRockets_DallasMavericks_2005,home_team,Dallas Mavericks,Dallas Mavericks,Dallas Mavericks,Houston Rockets,True
+Game 4,"Sat, April 30",Dallas Mavericks,97,Houston Rockets,93,2005,HoustonRockets_DallasMavericks_2005,home_team,Dallas Mavericks,Dallas Mavericks,Dallas Mavericks,Houston Rockets,True
+Game 5,"Mon, May 2",Houston Rockets,100,Dallas Mavericks,103,2005,HoustonRockets_DallasMavericks_2005,away_team,Dallas Mavericks,Dallas Mavericks,Dallas Mavericks,Houston Rockets,True
+Game 6,"Thu, May 5",Dallas Mavericks,83,Houston Rockets,101,2005,HoustonRockets_DallasMavericks_2005,away_team,Houston Rockets,Dallas Mavericks,Dallas Mavericks,Houston Rockets,True
+Game 7,"Sat, May 7",Houston Rockets,76,Dallas Mavericks,116,2005,HoustonRockets_DallasMavericks_2005,away_team,Dallas Mavericks,Dallas Mavericks,Dallas Mavericks,Houston Rockets,True
+Game 1,"Sun, April 24",Memphis Grizzlies,103,Phoenix Suns,114,2005,MemphisGrizzlies_PhoenixSuns_2005,away_team,Phoenix Suns,Phoenix Suns,Phoenix Suns,Phoenix Suns,True
+Game 2,"Wed, April 27",Memphis Grizzlies,103,Phoenix Suns,108,2005,MemphisGrizzlies_PhoenixSuns_2005,away_team,Phoenix Suns,Phoenix Suns,Phoenix Suns,Phoenix Suns,True
+Game 3,"Fri, April 29",Phoenix Suns,110,Memphis Grizzlies,90,2005,MemphisGrizzlies_PhoenixSuns_2005,home_team,Phoenix Suns,Phoenix Suns,Phoenix Suns,Phoenix Suns,True
+Game 4,"Sun, May 1",Phoenix Suns,123,Memphis Grizzlies,115,2005,MemphisGrizzlies_PhoenixSuns_2005,home_team,Phoenix Suns,Phoenix Suns,Phoenix Suns,Phoenix Suns,True
+Game 1,"Sun, April 24",Denver Nuggets,93,San Antonio Spurs,87,2005,DenverNuggets_SanAntonioSpurs_2005,home_team,Denver Nuggets,San Antonio Spurs,San Antonio Spurs,Denver Nuggets,True
+Game 2,"Wed, April 27",Denver Nuggets,76,San Antonio Spurs,104,2005,DenverNuggets_SanAntonioSpurs_2005,away_team,San Antonio Spurs,San Antonio Spurs,San Antonio Spurs,Denver Nuggets,True
+Game 3,"Sat, April 30",San Antonio Spurs,86,Denver Nuggets,78,2005,DenverNuggets_SanAntonioSpurs_2005,home_team,San Antonio Spurs,San Antonio Spurs,San Antonio Spurs,Denver Nuggets,True
+Game 4,"Mon, May 2",San Antonio Spurs,126,Denver Nuggets,115,2005,DenverNuggets_SanAntonioSpurs_2005,home_team,San Antonio Spurs,San Antonio Spurs,San Antonio Spurs,Denver Nuggets,True
+Game 5,"Wed, May 4",Denver Nuggets,89,San Antonio Spurs,99,2005,DenverNuggets_SanAntonioSpurs_2005,away_team,San Antonio Spurs,San Antonio Spurs,San Antonio Spurs,Denver Nuggets,True
+Game 1,"Sat, April 23",Sacramento Kings,82,Seattle SuperSonics,87,2005,SacramentoKings_SeattleSuperSonics_2005,away_team,Seattle SuperSonics,Seattle SuperSonics,Seattle SuperSonics,Sacramento Kings,True
+Game 2,"Tue, April 26",Sacramento Kings,93,Seattle SuperSonics,105,2005,SacramentoKings_SeattleSuperSonics_2005,away_team,Seattle SuperSonics,Seattle SuperSonics,Seattle SuperSonics,Sacramento Kings,True
+Game 3,"Fri, April 29",Seattle SuperSonics,104,Sacramento Kings,116,2005,SacramentoKings_SeattleSuperSonics_2005,away_team,Sacramento Kings,Seattle SuperSonics,Seattle SuperSonics,Sacramento Kings,True
+Game 4,"Sun, May 1",Seattle SuperSonics,115,Sacramento Kings,102,2005,SacramentoKings_SeattleSuperSonics_2005,home_team,Seattle SuperSonics,Seattle SuperSonics,Seattle SuperSonics,Sacramento Kings,True
+Game 5,"Tue, May 3",Sacramento Kings,118,Seattle SuperSonics,122,2005,SacramentoKings_SeattleSuperSonics_2005,away_team,Seattle SuperSonics,Seattle SuperSonics,Seattle SuperSonics,Sacramento Kings,True
+Game 1,"Sat, April 22",Washington Wizards,86,Cleveland Cavaliers,97,2006,WashingtonWizards_ClevelandCavaliers_2006,away_team,Cleveland Cavaliers,Cleveland Cavaliers,Cleveland Cavaliers,Washington Wizards,True
+Game 2,"Tue, April 25",Washington Wizards,89,Cleveland Cavaliers,84,2006,WashingtonWizards_ClevelandCavaliers_2006,home_team,Washington Wizards,Cleveland Cavaliers,Cleveland Cavaliers,Washington Wizards,True
+Game 3,"Fri, April 28",Cleveland Cavaliers,97,Washington Wizards,96,2006,WashingtonWizards_ClevelandCavaliers_2006,home_team,Cleveland Cavaliers,Cleveland Cavaliers,Cleveland Cavaliers,Washington Wizards,True
+Game 4,"Sun, April 30",Cleveland Cavaliers,96,Washington Wizards,106,2006,WashingtonWizards_ClevelandCavaliers_2006,away_team,Washington Wizards,Cleveland Cavaliers,Cleveland Cavaliers,Washington Wizards,True
+Game 5,"Wed, May 3",Washington Wizards,120,Cleveland Cavaliers,121,2006,WashingtonWizards_ClevelandCavaliers_2006,away_team,Cleveland Cavaliers,Cleveland Cavaliers,Cleveland Cavaliers,Washington Wizards,True
+Game 6,"Fri, May 5",Cleveland Cavaliers,114,Washington Wizards,113,2006,WashingtonWizards_ClevelandCavaliers_2006,home_team,Cleveland Cavaliers,Cleveland Cavaliers,Cleveland Cavaliers,Washington Wizards,True
+Game 1,"Sun, April 23",Milwaukee Bucks,74,Detroit Pistons,92,2006,MilwaukeeBucks_DetroitPistons_2006,away_team,Detroit Pistons,Detroit Pistons,Detroit Pistons,Milwaukee Bucks,True
+Game 2,"Wed, April 26",Milwaukee Bucks,98,Detroit Pistons,109,2006,MilwaukeeBucks_DetroitPistons_2006,away_team,Detroit Pistons,Detroit Pistons,Detroit Pistons,Milwaukee Bucks,True
+Game 3,"Sat, April 29",Detroit Pistons,104,Milwaukee Bucks,124,2006,MilwaukeeBucks_DetroitPistons_2006,away_team,Milwaukee Bucks,Detroit Pistons,Detroit Pistons,Milwaukee Bucks,True
+Game 4,"Mon, May 1",Detroit Pistons,109,Milwaukee Bucks,99,2006,MilwaukeeBucks_DetroitPistons_2006,home_team,Detroit Pistons,Detroit Pistons,Detroit Pistons,Milwaukee Bucks,True
+Game 5,"Wed, May 3",Milwaukee Bucks,93,Detroit Pistons,122,2006,MilwaukeeBucks_DetroitPistons_2006,away_team,Detroit Pistons,Detroit Pistons,Detroit Pistons,Milwaukee Bucks,True
+Game 1,"Sat, April 22",Chicago Bulls,106,Miami Heat,111,2006,ChicagoBulls_MiamiHeat_2006,away_team,Miami Heat,Miami Heat,Miami Heat,Chicago Bulls,True
+Game 2,"Mon, April 24",Chicago Bulls,108,Miami Heat,115,2006,ChicagoBulls_MiamiHeat_2006,away_team,Miami Heat,Miami Heat,Miami Heat,Chicago Bulls,True
+Game 3,"Thu, April 27",Miami Heat,90,Chicago Bulls,109,2006,ChicagoBulls_MiamiHeat_2006,away_team,Chicago Bulls,Miami Heat,Miami Heat,Chicago Bulls,True
+Game 4,"Sun, April 30",Miami Heat,87,Chicago Bulls,93,2006,ChicagoBulls_MiamiHeat_2006,away_team,Chicago Bulls,Miami Heat,Miami Heat,Chicago Bulls,True
+Game 5,"Tue, May 2",Chicago Bulls,78,Miami Heat,92,2006,ChicagoBulls_MiamiHeat_2006,away_team,Miami Heat,Miami Heat,Miami Heat,Chicago Bulls,True
+Game 6,"Thu, May 4",Miami Heat,113,Chicago Bulls,96,2006,ChicagoBulls_MiamiHeat_2006,home_team,Miami Heat,Miami Heat,Miami Heat,Chicago Bulls,True
+Game 1,"Sun, April 23",Indiana Pacers,90,New Jersey Nets,88,2006,IndianaPacers_NewJerseyNets_2006,home_team,Indiana Pacers,New Jersey Nets,New Jersey Nets,Indiana Pacers,True
+Game 2,"Tue, April 25",Indiana Pacers,75,New Jersey Nets,90,2006,IndianaPacers_NewJerseyNets_2006,away_team,New Jersey Nets,New Jersey Nets,New Jersey Nets,Indiana Pacers,True
+Game 3,"Thu, April 27",New Jersey Nets,95,Indiana Pacers,107,2006,IndianaPacers_NewJerseyNets_2006,away_team,Indiana Pacers,New Jersey Nets,New Jersey Nets,Indiana Pacers,True
+Game 4,"Sat, April 29",New Jersey Nets,97,Indiana Pacers,88,2006,IndianaPacers_NewJerseyNets_2006,home_team,New Jersey Nets,New Jersey Nets,New Jersey Nets,Indiana Pacers,True
+Game 5,"Tue, May 2",Indiana Pacers,86,New Jersey Nets,92,2006,IndianaPacers_NewJerseyNets_2006,away_team,New Jersey Nets,New Jersey Nets,New Jersey Nets,Indiana Pacers,True
+Game 6,"Thu, May 4",New Jersey Nets,96,Indiana Pacers,90,2006,IndianaPacers_NewJerseyNets_2006,home_team,New Jersey Nets,New Jersey Nets,New Jersey Nets,Indiana Pacers,True
+Game 1,"Sun, April 23",Memphis Grizzlies,93,Dallas Mavericks,103,2006,MemphisGrizzlies_DallasMavericks_2006,away_team,Dallas Mavericks,Dallas Mavericks,Dallas Mavericks,Dallas Mavericks,True
+Game 2,"Wed, April 26",Memphis Grizzlies,79,Dallas Mavericks,94,2006,MemphisGrizzlies_DallasMavericks_2006,away_team,Dallas Mavericks,Dallas Mavericks,Dallas Mavericks,Dallas Mavericks,True
+Game 3,"Sat, April 29",Dallas Mavericks,94,Memphis Grizzlies,89,2006,MemphisGrizzlies_DallasMavericks_2006,home_team,Dallas Mavericks,Dallas Mavericks,Dallas Mavericks,Dallas Mavericks,True
+Game 4,"Mon, May 1",Dallas Mavericks,102,Memphis Grizzlies,76,2006,MemphisGrizzlies_DallasMavericks_2006,home_team,Dallas Mavericks,Dallas Mavericks,Dallas Mavericks,Dallas Mavericks,True
+Game 1,"Sat, April 22",Denver Nuggets,87,Los Angeles Clippers,89,2006,DenverNuggets_LosAngelesClippers_2006,away_team,Los Angeles Clippers,Los Angeles Clippers,Los Angeles Clippers,Denver Nuggets,True
+Game 2,"Mon, April 24",Denver Nuggets,87,Los Angeles Clippers,98,2006,DenverNuggets_LosAngelesClippers_2006,away_team,Los Angeles Clippers,Los Angeles Clippers,Los Angeles Clippers,Denver Nuggets,True
+Game 3,"Thu, April 27",Los Angeles Clippers,87,Denver Nuggets,94,2006,DenverNuggets_LosAngelesClippers_2006,away_team,Denver Nuggets,Los Angeles Clippers,Los Angeles Clippers,Denver Nuggets,True
+Game 4,"Sat, April 29",Los Angeles Clippers,100,Denver Nuggets,86,2006,DenverNuggets_LosAngelesClippers_2006,home_team,Los Angeles Clippers,Los Angeles Clippers,Los Angeles Clippers,Denver Nuggets,True
+Game 5,"Mon, May 1",Denver Nuggets,83,Los Angeles Clippers,101,2006,DenverNuggets_LosAngelesClippers_2006,away_team,Los Angeles Clippers,Los Angeles Clippers,Los Angeles Clippers,Denver Nuggets,True
+Game 1,"Sun, April 23",Los Angeles Lakers,102,Phoenix Suns,107,2006,LosAngelesLakers_PhoenixSuns_2006,away_team,Phoenix Suns,Los Angeles Lakers,Phoenix Suns,Los Angeles Lakers,False
+Game 2,"Wed, April 26",Los Angeles Lakers,99,Phoenix Suns,93,2006,LosAngelesLakers_PhoenixSuns_2006,home_team,Los Angeles Lakers,Los Angeles Lakers,Phoenix Suns,Los Angeles Lakers,False
+Game 3,"Fri, April 28",Phoenix Suns,92,Los Angeles Lakers,99,2006,LosAngelesLakers_PhoenixSuns_2006,away_team,Los Angeles Lakers,Los Angeles Lakers,Phoenix Suns,Los Angeles Lakers,False
+Game 4,"Sun, April 30",Phoenix Suns,98,Los Angeles Lakers,99,2006,LosAngelesLakers_PhoenixSuns_2006,away_team,Los Angeles Lakers,Los Angeles Lakers,Phoenix Suns,Los Angeles Lakers,False
+Game 5,"Tue, May 2",Los Angeles Lakers,97,Phoenix Suns,114,2006,LosAngelesLakers_PhoenixSuns_2006,away_team,Phoenix Suns,Los Angeles Lakers,Phoenix Suns,Los Angeles Lakers,False
+Game 6,"Thu, May 4",Phoenix Suns,126,Los Angeles Lakers,118,2006,LosAngelesLakers_PhoenixSuns_2006,home_team,Phoenix Suns,Los Angeles Lakers,Phoenix Suns,Los Angeles Lakers,False
+Game 7,"Sat, May 6",Los Angeles Lakers,90,Phoenix Suns,121,2006,LosAngelesLakers_PhoenixSuns_2006,away_team,Phoenix Suns,Los Angeles Lakers,Phoenix Suns,Los Angeles Lakers,False
+Game 1,"Sat, April 22",Sacramento Kings,88,San Antonio Spurs,122,2006,SacramentoKings_SanAntonioSpurs_2006,away_team,San Antonio Spurs,San Antonio Spurs,San Antonio Spurs,Sacramento Kings,True
+Game 2,"Tue, April 25",Sacramento Kings,119,San Antonio Spurs,128,2006,SacramentoKings_SanAntonioSpurs_2006,away_team,San Antonio Spurs,San Antonio Spurs,San Antonio Spurs,Sacramento Kings,True
+Game 3,"Fri, April 28",San Antonio Spurs,93,Sacramento Kings,94,2006,SacramentoKings_SanAntonioSpurs_2006,away_team,Sacramento Kings,San Antonio Spurs,San Antonio Spurs,Sacramento Kings,True
+Game 4,"Sun, April 30",San Antonio Spurs,84,Sacramento Kings,102,2006,SacramentoKings_SanAntonioSpurs_2006,away_team,Sacramento Kings,San Antonio Spurs,San Antonio Spurs,Sacramento Kings,True
+Game 5,"Tue, May 2",Sacramento Kings,98,San Antonio Spurs,109,2006,SacramentoKings_SanAntonioSpurs_2006,away_team,San Antonio Spurs,San Antonio Spurs,San Antonio Spurs,Sacramento Kings,True
+Game 6,"Fri, May 5",San Antonio Spurs,105,Sacramento Kings,83,2006,SacramentoKings_SanAntonioSpurs_2006,home_team,San Antonio Spurs,San Antonio Spurs,San Antonio Spurs,Sacramento Kings,True
+Game 1,"Sat, April 21",Miami Heat,91,Chicago Bulls,96,2007,MiamiHeat_ChicagoBulls_2007,away_team,Chicago Bulls,Chicago Bulls,Chicago Bulls,Chicago Bulls,True
+Game 2,"Tue, April 24",Miami Heat,89,Chicago Bulls,107,2007,MiamiHeat_ChicagoBulls_2007,away_team,Chicago Bulls,Chicago Bulls,Chicago Bulls,Chicago Bulls,True
+Game 3,"Fri, April 27",Chicago Bulls,104,Miami Heat,96,2007,MiamiHeat_ChicagoBulls_2007,home_team,Chicago Bulls,Chicago Bulls,Chicago Bulls,Chicago Bulls,True
+Game 4,"Sun, April 29",Chicago Bulls,92,Miami Heat,79,2007,MiamiHeat_ChicagoBulls_2007,home_team,Chicago Bulls,Chicago Bulls,Chicago Bulls,Chicago Bulls,True
+Game 1,"Sun, April 22",Washington Wizards,82,Cleveland Cavaliers,97,2007,WashingtonWizards_ClevelandCavaliers_2007,away_team,Cleveland Cavaliers,Cleveland Cavaliers,Cleveland Cavaliers,Cleveland Cavaliers,True
+Game 2,"Wed, April 25",Washington Wizards,102,Cleveland Cavaliers,109,2007,WashingtonWizards_ClevelandCavaliers_2007,away_team,Cleveland Cavaliers,Cleveland Cavaliers,Cleveland Cavaliers,Cleveland Cavaliers,True
+Game 3,"Sat, April 28",Cleveland Cavaliers,98,Washington Wizards,92,2007,WashingtonWizards_ClevelandCavaliers_2007,home_team,Cleveland Cavaliers,Cleveland Cavaliers,Cleveland Cavaliers,Cleveland Cavaliers,True
+Game 4,"Mon, April 30",Cleveland Cavaliers,97,Washington Wizards,90,2007,WashingtonWizards_ClevelandCavaliers_2007,home_team,Cleveland Cavaliers,Cleveland Cavaliers,Cleveland Cavaliers,Cleveland Cavaliers,True
+Game 1,"Sat, April 21",Orlando Magic,92,Detroit Pistons,100,2007,OrlandoMagic_DetroitPistons_2007,away_team,Detroit Pistons,Detroit Pistons,Detroit Pistons,Detroit Pistons,True
+Game 2,"Mon, April 23",Orlando Magic,90,Detroit Pistons,98,2007,OrlandoMagic_DetroitPistons_2007,away_team,Detroit Pistons,Detroit Pistons,Detroit Pistons,Detroit Pistons,True
+Game 3,"Thu, April 26",Detroit Pistons,93,Orlando Magic,77,2007,OrlandoMagic_DetroitPistons_2007,home_team,Detroit Pistons,Detroit Pistons,Detroit Pistons,Detroit Pistons,True
+Game 4,"Sat, April 28",Detroit Pistons,97,Orlando Magic,93,2007,OrlandoMagic_DetroitPistons_2007,home_team,Detroit Pistons,Detroit Pistons,Detroit Pistons,Detroit Pistons,True
+Game 1,"Sat, April 21",New Jersey Nets,96,Toronto Raptors,91,2007,NewJerseyNets_TorontoRaptors_2007,home_team,New Jersey Nets,New Jersey Nets,New Jersey Nets,Toronto Raptors,True
+Game 2,"Tue, April 24",New Jersey Nets,83,Toronto Raptors,89,2007,NewJerseyNets_TorontoRaptors_2007,away_team,Toronto Raptors,New Jersey Nets,New Jersey Nets,Toronto Raptors,True
+Game 3,"Fri, April 27",Toronto Raptors,89,New Jersey Nets,102,2007,NewJerseyNets_TorontoRaptors_2007,away_team,New Jersey Nets,New Jersey Nets,New Jersey Nets,Toronto Raptors,True
+Game 4,"Sun, April 29",Toronto Raptors,81,New Jersey Nets,102,2007,NewJerseyNets_TorontoRaptors_2007,away_team,New Jersey Nets,New Jersey Nets,New Jersey Nets,Toronto Raptors,True
+Game 5,"Tue, May 1",New Jersey Nets,96,Toronto Raptors,98,2007,NewJerseyNets_TorontoRaptors_2007,away_team,Toronto Raptors,New Jersey Nets,New Jersey Nets,Toronto Raptors,True
+Game 6,"Fri, May 4",Toronto Raptors,97,New Jersey Nets,98,2007,NewJerseyNets_TorontoRaptors_2007,away_team,New Jersey Nets,New Jersey Nets,New Jersey Nets,Toronto Raptors,True
+Game 1,"Sun, April 22",Golden State Warriors,97,Dallas Mavericks,85,2007,GoldenStateWarriors_DallasMavericks_2007,home_team,Golden State Warriors,Golden State Warriors,Golden State Warriors,Dallas Mavericks,True
+Game 2,"Wed, April 25",Golden State Warriors,99,Dallas Mavericks,112,2007,GoldenStateWarriors_DallasMavericks_2007,away_team,Dallas Mavericks,Golden State Warriors,Golden State Warriors,Dallas Mavericks,True
+Game 3,"Fri, April 27",Dallas Mavericks,91,Golden State Warriors,109,2007,GoldenStateWarriors_DallasMavericks_2007,away_team,Golden State Warriors,Golden State Warriors,Golden State Warriors,Dallas Mavericks,True
+Game 4,"Sun, April 29",Dallas Mavericks,99,Golden State Warriors,103,2007,GoldenStateWarriors_DallasMavericks_2007,away_team,Golden State Warriors,Golden State Warriors,Golden State Warriors,Dallas Mavericks,True
+Game 5,"Tue, May 1",Golden State Warriors,112,Dallas Mavericks,118,2007,GoldenStateWarriors_DallasMavericks_2007,away_team,Dallas Mavericks,Golden State Warriors,Golden State Warriors,Dallas Mavericks,True
+Game 6,"Thu, May 3",Dallas Mavericks,86,Golden State Warriors,111,2007,GoldenStateWarriors_DallasMavericks_2007,away_team,Golden State Warriors,Golden State Warriors,Golden State Warriors,Dallas Mavericks,True
+Game 1,"Sun, April 22",Los Angeles Lakers,87,Phoenix Suns,95,2007,LosAngelesLakers_PhoenixSuns_2007,away_team,Phoenix Suns,Phoenix Suns,Phoenix Suns,Los Angeles Lakers,True
+Game 2,"Tue, April 24",Los Angeles Lakers,98,Phoenix Suns,126,2007,LosAngelesLakers_PhoenixSuns_2007,away_team,Phoenix Suns,Phoenix Suns,Phoenix Suns,Los Angeles Lakers,True
+Game 3,"Thu, April 26",Phoenix Suns,89,Los Angeles Lakers,95,2007,LosAngelesLakers_PhoenixSuns_2007,away_team,Los Angeles Lakers,Phoenix Suns,Phoenix Suns,Los Angeles Lakers,True
+Game 4,"Sun, April 29",Phoenix Suns,113,Los Angeles Lakers,100,2007,LosAngelesLakers_PhoenixSuns_2007,home_team,Phoenix Suns,Phoenix Suns,Phoenix Suns,Los Angeles Lakers,True
+Game 5,"Wed, May 2",Los Angeles Lakers,110,Phoenix Suns,119,2007,LosAngelesLakers_PhoenixSuns_2007,away_team,Phoenix Suns,Phoenix Suns,Phoenix Suns,Los Angeles Lakers,True
+Game 1,"Sun, April 22",Denver Nuggets,95,San Antonio Spurs,89,2007,DenverNuggets_SanAntonioSpurs_2007,home_team,Denver Nuggets,San Antonio Spurs,San Antonio Spurs,Denver Nuggets,True
+Game 2,"Wed, April 25",Denver Nuggets,88,San Antonio Spurs,97,2007,DenverNuggets_SanAntonioSpurs_2007,away_team,San Antonio Spurs,San Antonio Spurs,San Antonio Spurs,Denver Nuggets,True
+Game 3,"Sat, April 28",San Antonio Spurs,96,Denver Nuggets,91,2007,DenverNuggets_SanAntonioSpurs_2007,home_team,San Antonio Spurs,San Antonio Spurs,San Antonio Spurs,Denver Nuggets,True
+Game 4,"Mon, April 30",San Antonio Spurs,96,Denver Nuggets,89,2007,DenverNuggets_SanAntonioSpurs_2007,home_team,San Antonio Spurs,San Antonio Spurs,San Antonio Spurs,Denver Nuggets,True
+Game 5,"Wed, May 2",Denver Nuggets,78,San Antonio Spurs,93,2007,DenverNuggets_SanAntonioSpurs_2007,away_team,San Antonio Spurs,San Antonio Spurs,San Antonio Spurs,Denver Nuggets,True
+Game 1,"Sat, April 21",Utah Jazz,75,Houston Rockets,84,2007,UtahJazz_HoustonRockets_2007,away_team,Houston Rockets,Houston Rockets,Utah Jazz,Houston Rockets,False
+Game 2,"Mon, April 23",Utah Jazz,90,Houston Rockets,98,2007,UtahJazz_HoustonRockets_2007,away_team,Houston Rockets,Houston Rockets,Utah Jazz,Houston Rockets,False
+Game 3,"Thu, April 26",Houston Rockets,67,Utah Jazz,81,2007,UtahJazz_HoustonRockets_2007,away_team,Utah Jazz,Houston Rockets,Utah Jazz,Houston Rockets,False
+Game 4,"Sat, April 28",Houston Rockets,85,Utah Jazz,98,2007,UtahJazz_HoustonRockets_2007,away_team,Utah Jazz,Houston Rockets,Utah Jazz,Houston Rockets,False
+Game 5,"Mon, April 30",Utah Jazz,92,Houston Rockets,96,2007,UtahJazz_HoustonRockets_2007,away_team,Houston Rockets,Houston Rockets,Utah Jazz,Houston Rockets,False
+Game 6,"Thu, May 3",Houston Rockets,82,Utah Jazz,94,2007,UtahJazz_HoustonRockets_2007,away_team,Utah Jazz,Houston Rockets,Utah Jazz,Houston Rockets,False
+Game 7,"Sat, May 5",Utah Jazz,103,Houston Rockets,99,2007,UtahJazz_HoustonRockets_2007,home_team,Utah Jazz,Houston Rockets,Utah Jazz,Houston Rockets,False
+Game 1,"Sun, April 20",Atlanta Hawks,81,Boston Celtics,104,2008,AtlantaHawks_BostonCeltics_2008,away_team,Boston Celtics,Boston Celtics,Boston Celtics,Atlanta Hawks,True
+Game 2,"Wed, April 23",Atlanta Hawks,77,Boston Celtics,96,2008,AtlantaHawks_BostonCeltics_2008,away_team,Boston Celtics,Boston Celtics,Boston Celtics,Atlanta Hawks,True
+Game 3,"Sat, April 26",Boston Celtics,93,Atlanta Hawks,102,2008,AtlantaHawks_BostonCeltics_2008,away_team,Atlanta Hawks,Boston Celtics,Boston Celtics,Atlanta Hawks,True
+Game 4,"Mon, April 28",Boston Celtics,92,Atlanta Hawks,97,2008,AtlantaHawks_BostonCeltics_2008,away_team,Atlanta Hawks,Boston Celtics,Boston Celtics,Atlanta Hawks,True
+Game 5,"Wed, April 30",Atlanta Hawks,85,Boston Celtics,110,2008,AtlantaHawks_BostonCeltics_2008,away_team,Boston Celtics,Boston Celtics,Boston Celtics,Atlanta Hawks,True
+Game 6,"Fri, May 2",Boston Celtics,100,Atlanta Hawks,103,2008,AtlantaHawks_BostonCeltics_2008,away_team,Atlanta Hawks,Boston Celtics,Boston Celtics,Atlanta Hawks,True
+Game 7,"Sun, May 4",Atlanta Hawks,65,Boston Celtics,99,2008,AtlantaHawks_BostonCeltics_2008,away_team,Boston Celtics,Boston Celtics,Boston Celtics,Atlanta Hawks,True
+Game 1,"Sat, April 19",Washington Wizards,86,Cleveland Cavaliers,93,2008,WashingtonWizards_ClevelandCavaliers_2008,away_team,Cleveland Cavaliers,Cleveland Cavaliers,Cleveland Cavaliers,Washington Wizards,True
+Game 2,"Mon, April 21",Washington Wizards,86,Cleveland Cavaliers,116,2008,WashingtonWizards_ClevelandCavaliers_2008,away_team,Cleveland Cavaliers,Cleveland Cavaliers,Cleveland Cavaliers,Washington Wizards,True
+Game 3,"Thu, April 24",Cleveland Cavaliers,72,Washington Wizards,108,2008,WashingtonWizards_ClevelandCavaliers_2008,away_team,Washington Wizards,Cleveland Cavaliers,Cleveland Cavaliers,Washington Wizards,True
+Game 4,"Sun, April 27",Cleveland Cavaliers,100,Washington Wizards,97,2008,WashingtonWizards_ClevelandCavaliers_2008,home_team,Cleveland Cavaliers,Cleveland Cavaliers,Cleveland Cavaliers,Washington Wizards,True
+Game 5,"Wed, April 30",Washington Wizards,88,Cleveland Cavaliers,87,2008,WashingtonWizards_ClevelandCavaliers_2008,home_team,Washington Wizards,Cleveland Cavaliers,Cleveland Cavaliers,Washington Wizards,True
+Game 6,"Fri, May 2",Cleveland Cavaliers,105,Washington Wizards,88,2008,WashingtonWizards_ClevelandCavaliers_2008,home_team,Cleveland Cavaliers,Cleveland Cavaliers,Cleveland Cavaliers,Washington Wizards,True
+Game 1,"Sun, April 20",Philadelphia 76ers,90,Detroit Pistons,86,2008,Philadelphia76ers_DetroitPistons_2008,home_team,Philadelphia 76ers,Detroit Pistons,Detroit Pistons,Philadelphia 76ers,True
+Game 2,"Wed, April 23",Philadelphia 76ers,88,Detroit Pistons,105,2008,Philadelphia76ers_DetroitPistons_2008,away_team,Detroit Pistons,Detroit Pistons,Detroit Pistons,Philadelphia 76ers,True
+Game 3,"Fri, April 25",Detroit Pistons,75,Philadelphia 76ers,95,2008,Philadelphia76ers_DetroitPistons_2008,away_team,Philadelphia 76ers,Detroit Pistons,Detroit Pistons,Philadelphia 76ers,True
+Game 4,"Sun, April 27",Detroit Pistons,93,Philadelphia 76ers,84,2008,Philadelphia76ers_DetroitPistons_2008,home_team,Detroit Pistons,Detroit Pistons,Detroit Pistons,Philadelphia 76ers,True
+Game 5,"Tue, April 29",Philadelphia 76ers,81,Detroit Pistons,98,2008,Philadelphia76ers_DetroitPistons_2008,away_team,Detroit Pistons,Detroit Pistons,Detroit Pistons,Philadelphia 76ers,True
+Game 6,"Thu, May 1",Detroit Pistons,100,Philadelphia 76ers,77,2008,Philadelphia76ers_DetroitPistons_2008,home_team,Detroit Pistons,Detroit Pistons,Detroit Pistons,Philadelphia 76ers,True
+Game 1,"Sun, April 20",Toronto Raptors,100,Orlando Magic,114,2008,TorontoRaptors_OrlandoMagic_2008,away_team,Orlando Magic,Orlando Magic,Orlando Magic,Toronto Raptors,True
+Game 2,"Tue, April 22",Toronto Raptors,103,Orlando Magic,104,2008,TorontoRaptors_OrlandoMagic_2008,away_team,Orlando Magic,Orlando Magic,Orlando Magic,Toronto Raptors,True
+Game 3,"Thu, April 24",Orlando Magic,94,Toronto Raptors,108,2008,TorontoRaptors_OrlandoMagic_2008,away_team,Toronto Raptors,Orlando Magic,Orlando Magic,Toronto Raptors,True
+Game 4,"Sat, April 26",Orlando Magic,106,Toronto Raptors,94,2008,TorontoRaptors_OrlandoMagic_2008,home_team,Orlando Magic,Orlando Magic,Orlando Magic,Toronto Raptors,True
+Game 5,"Mon, April 28",Toronto Raptors,92,Orlando Magic,102,2008,TorontoRaptors_OrlandoMagic_2008,away_team,Orlando Magic,Orlando Magic,Orlando Magic,Toronto Raptors,True
+Game 1,"Sun, April 20",Denver Nuggets,114,Los Angeles Lakers,128,2008,DenverNuggets_LosAngelesLakers_2008,away_team,Los Angeles Lakers,Los Angeles Lakers,Los Angeles Lakers,Los Angeles Lakers,True
+Game 2,"Wed, April 23",Denver Nuggets,107,Los Angeles Lakers,122,2008,DenverNuggets_LosAngelesLakers_2008,away_team,Los Angeles Lakers,Los Angeles Lakers,Los Angeles Lakers,Los Angeles Lakers,True
+Game 3,"Sat, April 26",Los Angeles Lakers,102,Denver Nuggets,84,2008,DenverNuggets_LosAngelesLakers_2008,home_team,Los Angeles Lakers,Los Angeles Lakers,Los Angeles Lakers,Los Angeles Lakers,True
+Game 4,"Mon, April 28",Los Angeles Lakers,107,Denver Nuggets,101,2008,DenverNuggets_LosAngelesLakers_2008,home_team,Los Angeles Lakers,Los Angeles Lakers,Los Angeles Lakers,Los Angeles Lakers,True
+Game 1,"Sat, April 19",Dallas Mavericks,92,New Orleans Hornets,104,2008,DallasMavericks_NewOrleansHornets_2008,away_team,New Orleans Hornets,New Orleans Hornets,New Orleans Hornets,Dallas Mavericks,True
+Game 2,"Tue, April 22",Dallas Mavericks,103,New Orleans Hornets,127,2008,DallasMavericks_NewOrleansHornets_2008,away_team,New Orleans Hornets,New Orleans Hornets,New Orleans Hornets,Dallas Mavericks,True
+Game 3,"Fri, April 25",New Orleans Hornets,87,Dallas Mavericks,97,2008,DallasMavericks_NewOrleansHornets_2008,away_team,Dallas Mavericks,New Orleans Hornets,New Orleans Hornets,Dallas Mavericks,True
+Game 4,"Sun, April 27",New Orleans Hornets,97,Dallas Mavericks,84,2008,DallasMavericks_NewOrleansHornets_2008,home_team,New Orleans Hornets,New Orleans Hornets,New Orleans Hornets,Dallas Mavericks,True
+Game 5,"Tue, April 29",Dallas Mavericks,94,New Orleans Hornets,99,2008,DallasMavericks_NewOrleansHornets_2008,away_team,New Orleans Hornets,New Orleans Hornets,New Orleans Hornets,Dallas Mavericks,True
+Game 1,"Sat, April 19",Phoenix Suns,115,San Antonio Spurs,117,2008,PhoenixSuns_SanAntonioSpurs_2008,away_team,San Antonio Spurs,San Antonio Spurs,San Antonio Spurs,Phoenix Suns,True
+Game 2,"Tue, April 22",Phoenix Suns,96,San Antonio Spurs,102,2008,PhoenixSuns_SanAntonioSpurs_2008,away_team,San Antonio Spurs,San Antonio Spurs,San Antonio Spurs,Phoenix Suns,True
+Game 3,"Fri, April 25",San Antonio Spurs,115,Phoenix Suns,99,2008,PhoenixSuns_SanAntonioSpurs_2008,home_team,San Antonio Spurs,San Antonio Spurs,San Antonio Spurs,Phoenix Suns,True
+Game 4,"Sun, April 27",San Antonio Spurs,86,Phoenix Suns,105,2008,PhoenixSuns_SanAntonioSpurs_2008,away_team,Phoenix Suns,San Antonio Spurs,San Antonio Spurs,Phoenix Suns,True
+Game 5,"Tue, April 29",Phoenix Suns,87,San Antonio Spurs,92,2008,PhoenixSuns_SanAntonioSpurs_2008,away_team,San Antonio Spurs,San Antonio Spurs,San Antonio Spurs,Phoenix Suns,True
+Game 1,"Sat, April 19",Utah Jazz,93,Houston Rockets,82,2008,UtahJazz_HoustonRockets_2008,home_team,Utah Jazz,Utah Jazz,Utah Jazz,Houston Rockets,True
+Game 2,"Mon, April 21",Utah Jazz,90,Houston Rockets,84,2008,UtahJazz_HoustonRockets_2008,home_team,Utah Jazz,Utah Jazz,Utah Jazz,Houston Rockets,True
+Game 3,"Thu, April 24",Houston Rockets,94,Utah Jazz,92,2008,UtahJazz_HoustonRockets_2008,home_team,Houston Rockets,Utah Jazz,Utah Jazz,Houston Rockets,True
+Game 4,"Sat, April 26",Houston Rockets,82,Utah Jazz,86,2008,UtahJazz_HoustonRockets_2008,away_team,Utah Jazz,Utah Jazz,Utah Jazz,Houston Rockets,True
+Game 5,"Tue, April 29",Utah Jazz,69,Houston Rockets,95,2008,UtahJazz_HoustonRockets_2008,away_team,Houston Rockets,Utah Jazz,Utah Jazz,Houston Rockets,True
+Game 6,"Fri, May 2",Houston Rockets,91,Utah Jazz,113,2008,UtahJazz_HoustonRockets_2008,away_team,Utah Jazz,Utah Jazz,Utah Jazz,Houston Rockets,True
+Game 1,"Sun, April 19",Miami Heat,64,Atlanta Hawks,90,2009,MiamiHeat_AtlantaHawks_2009,away_team,Atlanta Hawks,Atlanta Hawks,Atlanta Hawks,Miami Heat,True
+Game 2,"Wed, April 22",Miami Heat,108,Atlanta Hawks,93,2009,MiamiHeat_AtlantaHawks_2009,home_team,Miami Heat,Atlanta Hawks,Atlanta Hawks,Miami Heat,True
+Game 3,"Sat, April 25",Atlanta Hawks,78,Miami Heat,107,2009,MiamiHeat_AtlantaHawks_2009,away_team,Miami Heat,Atlanta Hawks,Atlanta Hawks,Miami Heat,True
+Game 4,"Mon, April 27",Atlanta Hawks,81,Miami Heat,71,2009,MiamiHeat_AtlantaHawks_2009,home_team,Atlanta Hawks,Atlanta Hawks,Atlanta Hawks,Miami Heat,True
+Game 5,"Wed, April 29",Miami Heat,91,Atlanta Hawks,106,2009,MiamiHeat_AtlantaHawks_2009,away_team,Atlanta Hawks,Atlanta Hawks,Atlanta Hawks,Miami Heat,True
+Game 6,"Fri, May 1",Atlanta Hawks,72,Miami Heat,98,2009,MiamiHeat_AtlantaHawks_2009,away_team,Miami Heat,Atlanta Hawks,Atlanta Hawks,Miami Heat,True
+Game 7,"Sun, May 3",Miami Heat,78,Atlanta Hawks,91,2009,MiamiHeat_AtlantaHawks_2009,away_team,Atlanta Hawks,Atlanta Hawks,Atlanta Hawks,Miami Heat,True
+Game 1,"Sat, April 18",Chicago Bulls,105,Boston Celtics,103,2009,ChicagoBulls_BostonCeltics_2009,home_team,Chicago Bulls,Boston Celtics,Boston Celtics,Chicago Bulls,True
+Game 2,"Mon, April 20",Chicago Bulls,115,Boston Celtics,118,2009,ChicagoBulls_BostonCeltics_2009,away_team,Boston Celtics,Boston Celtics,Boston Celtics,Chicago Bulls,True
+Game 3,"Thu, April 23",Boston Celtics,107,Chicago Bulls,86,2009,ChicagoBulls_BostonCeltics_2009,home_team,Boston Celtics,Boston Celtics,Boston Celtics,Chicago Bulls,True
+Game 4,"Sun, April 26",Boston Celtics,118,Chicago Bulls,121,2009,ChicagoBulls_BostonCeltics_2009,away_team,Chicago Bulls,Boston Celtics,Boston Celtics,Chicago Bulls,True
+Game 5,"Tue, April 28",Chicago Bulls,104,Boston Celtics,106,2009,ChicagoBulls_BostonCeltics_2009,away_team,Boston Celtics,Boston Celtics,Boston Celtics,Chicago Bulls,True
+Game 6,"Thu, April 30",Boston Celtics,127,Chicago Bulls,128,2009,ChicagoBulls_BostonCeltics_2009,away_team,Chicago Bulls,Boston Celtics,Boston Celtics,Chicago Bulls,True
+Game 7,"Sat, May 2",Chicago Bulls,99,Boston Celtics,109,2009,ChicagoBulls_BostonCeltics_2009,away_team,Boston Celtics,Boston Celtics,Boston Celtics,Chicago Bulls,True
+Game 1,"Sat, April 18",Detroit Pistons,84,Cleveland Cavaliers,102,2009,DetroitPistons_ClevelandCavaliers_2009,away_team,Cleveland Cavaliers,Cleveland Cavaliers,Cleveland Cavaliers,Cleveland Cavaliers,True
+Game 2,"Tue, April 21",Detroit Pistons,82,Cleveland Cavaliers,94,2009,DetroitPistons_ClevelandCavaliers_2009,away_team,Cleveland Cavaliers,Cleveland Cavaliers,Cleveland Cavaliers,Cleveland Cavaliers,True
+Game 3,"Fri, April 24",Cleveland Cavaliers,79,Detroit Pistons,68,2009,DetroitPistons_ClevelandCavaliers_2009,home_team,Cleveland Cavaliers,Cleveland Cavaliers,Cleveland Cavaliers,Cleveland Cavaliers,True
+Game 4,"Sun, April 26",Cleveland Cavaliers,99,Detroit Pistons,78,2009,DetroitPistons_ClevelandCavaliers_2009,home_team,Cleveland Cavaliers,Cleveland Cavaliers,Cleveland Cavaliers,Cleveland Cavaliers,True
+Game 1,"Sun, April 19",Philadelphia 76ers,100,Orlando Magic,98,2009,Philadelphia76ers_OrlandoMagic_2009,home_team,Philadelphia 76ers,Orlando Magic,Orlando Magic,Philadelphia 76ers,True
+Game 2,"Wed, April 22",Philadelphia 76ers,87,Orlando Magic,96,2009,Philadelphia76ers_OrlandoMagic_2009,away_team,Orlando Magic,Orlando Magic,Orlando Magic,Philadelphia 76ers,True
+Game 3,"Fri, April 24",Orlando Magic,94,Philadelphia 76ers,96,2009,Philadelphia76ers_OrlandoMagic_2009,away_team,Philadelphia 76ers,Orlando Magic,Orlando Magic,Philadelphia 76ers,True
+Game 4,"Sun, April 26",Orlando Magic,84,Philadelphia 76ers,81,2009,Philadelphia76ers_OrlandoMagic_2009,home_team,Orlando Magic,Orlando Magic,Orlando Magic,Philadelphia 76ers,True
+Game 5,"Tue, April 28",Philadelphia 76ers,78,Orlando Magic,91,2009,Philadelphia76ers_OrlandoMagic_2009,away_team,Orlando Magic,Orlando Magic,Orlando Magic,Philadelphia 76ers,True
+Game 6,"Thu, April 30",Orlando Magic,114,Philadelphia 76ers,89,2009,Philadelphia76ers_OrlandoMagic_2009,home_team,Orlando Magic,Orlando Magic,Orlando Magic,Philadelphia 76ers,True
+Game 1,"Sat, April 18",Dallas Mavericks,105,San Antonio Spurs,97,2009,DallasMavericks_SanAntonioSpurs_2009,home_team,Dallas Mavericks,Dallas Mavericks,Dallas Mavericks,San Antonio Spurs,True
+Game 2,"Mon, April 20",Dallas Mavericks,84,San Antonio Spurs,105,2009,DallasMavericks_SanAntonioSpurs_2009,away_team,San Antonio Spurs,Dallas Mavericks,Dallas Mavericks,San Antonio Spurs,True
+Game 3,"Thu, April 23",San Antonio Spurs,67,Dallas Mavericks,88,2009,DallasMavericks_SanAntonioSpurs_2009,away_team,Dallas Mavericks,Dallas Mavericks,Dallas Mavericks,San Antonio Spurs,True
+Game 4,"Sat, April 25",San Antonio Spurs,90,Dallas Mavericks,99,2009,DallasMavericks_SanAntonioSpurs_2009,away_team,Dallas Mavericks,Dallas Mavericks,Dallas Mavericks,San Antonio Spurs,True
+Game 5,"Tue, April 28",Dallas Mavericks,106,San Antonio Spurs,93,2009,DallasMavericks_SanAntonioSpurs_2009,home_team,Dallas Mavericks,Dallas Mavericks,Dallas Mavericks,San Antonio Spurs,True
+Game 1,"Sun, April 19",New Orleans Hornets,84,Denver Nuggets,113,2009,NewOrleansHornets_DenverNuggets_2009,away_team,Denver Nuggets,Denver Nuggets,Denver Nuggets,New Orleans Hornets,True
+Game 2,"Wed, April 22",New Orleans Hornets,93,Denver Nuggets,108,2009,NewOrleansHornets_DenverNuggets_2009,away_team,Denver Nuggets,Denver Nuggets,Denver Nuggets,New Orleans Hornets,True
+Game 3,"Sat, April 25",Denver Nuggets,93,New Orleans Hornets,95,2009,NewOrleansHornets_DenverNuggets_2009,away_team,New Orleans Hornets,Denver Nuggets,Denver Nuggets,New Orleans Hornets,True
+Game 4,"Mon, April 27",Denver Nuggets,121,New Orleans Hornets,63,2009,NewOrleansHornets_DenverNuggets_2009,home_team,Denver Nuggets,Denver Nuggets,Denver Nuggets,New Orleans Hornets,True
+Game 5,"Wed, April 29",New Orleans Hornets,86,Denver Nuggets,107,2009,NewOrleansHornets_DenverNuggets_2009,away_team,Denver Nuggets,Denver Nuggets,Denver Nuggets,New Orleans Hornets,True
+Game 1,"Sat, April 18",Houston Rockets,108,Portland Trail Blazers,81,2009,HoustonRockets_PortlandTrailBlazers_2009,home_team,Houston Rockets,Houston Rockets,Houston Rockets,Portland Trail Blazers,True
+Game 2,"Tue, April 21",Houston Rockets,103,Portland Trail Blazers,107,2009,HoustonRockets_PortlandTrailBlazers_2009,away_team,Portland Trail Blazers,Houston Rockets,Houston Rockets,Portland Trail Blazers,True
+Game 3,"Fri, April 24",Portland Trail Blazers,83,Houston Rockets,86,2009,HoustonRockets_PortlandTrailBlazers_2009,away_team,Houston Rockets,Houston Rockets,Houston Rockets,Portland Trail Blazers,True
+Game 4,"Sun, April 26",Portland Trail Blazers,88,Houston Rockets,89,2009,HoustonRockets_PortlandTrailBlazers_2009,away_team,Houston Rockets,Houston Rockets,Houston Rockets,Portland Trail Blazers,True
+Game 5,"Tue, April 28",Houston Rockets,77,Portland Trail Blazers,88,2009,HoustonRockets_PortlandTrailBlazers_2009,away_team,Portland Trail Blazers,Houston Rockets,Houston Rockets,Portland Trail Blazers,True
+Game 6,"Thu, April 30",Portland Trail Blazers,76,Houston Rockets,92,2009,HoustonRockets_PortlandTrailBlazers_2009,away_team,Houston Rockets,Houston Rockets,Houston Rockets,Portland Trail Blazers,True
+Game 1,"Sun, April 19",Utah Jazz,100,Los Angeles Lakers,113,2009,UtahJazz_LosAngelesLakers_2009,away_team,Los Angeles Lakers,Los Angeles Lakers,Los Angeles Lakers,Utah Jazz,True
+Game 2,"Tue, April 21",Utah Jazz,109,Los Angeles Lakers,119,2009,UtahJazz_LosAngelesLakers_2009,away_team,Los Angeles Lakers,Los Angeles Lakers,Los Angeles Lakers,Utah Jazz,True
+Game 3,"Thu, April 23",Los Angeles Lakers,86,Utah Jazz,88,2009,UtahJazz_LosAngelesLakers_2009,away_team,Utah Jazz,Los Angeles Lakers,Los Angeles Lakers,Utah Jazz,True
+Game 4,"Sat, April 25",Los Angeles Lakers,108,Utah Jazz,94,2009,UtahJazz_LosAngelesLakers_2009,home_team,Los Angeles Lakers,Los Angeles Lakers,Los Angeles Lakers,Utah Jazz,True
+Game 5,"Mon, April 27",Utah Jazz,96,Los Angeles Lakers,107,2009,UtahJazz_LosAngelesLakers_2009,away_team,Los Angeles Lakers,Los Angeles Lakers,Los Angeles Lakers,Utah Jazz,True
+Game 1,"Sat, April 17",Milwaukee Bucks,92,Atlanta Hawks,102,2010,MilwaukeeBucks_AtlantaHawks_2010,away_team,Atlanta Hawks,Milwaukee Bucks,Atlanta Hawks,Milwaukee Bucks,False
+Game 2,"Tue, April 20",Milwaukee Bucks,86,Atlanta Hawks,96,2010,MilwaukeeBucks_AtlantaHawks_2010,away_team,Atlanta Hawks,Milwaukee Bucks,Atlanta Hawks,Milwaukee Bucks,False
+Game 3,"Sat, April 24",Atlanta Hawks,89,Milwaukee Bucks,107,2010,MilwaukeeBucks_AtlantaHawks_2010,away_team,Milwaukee Bucks,Milwaukee Bucks,Atlanta Hawks,Milwaukee Bucks,False
+Game 4,"Mon, April 26",Atlanta Hawks,104,Milwaukee Bucks,111,2010,MilwaukeeBucks_AtlantaHawks_2010,away_team,Milwaukee Bucks,Milwaukee Bucks,Atlanta Hawks,Milwaukee Bucks,False
+Game 5,"Wed, April 28",Milwaukee Bucks,91,Atlanta Hawks,87,2010,MilwaukeeBucks_AtlantaHawks_2010,home_team,Milwaukee Bucks,Milwaukee Bucks,Atlanta Hawks,Milwaukee Bucks,False
+Game 6,"Fri, April 30",Atlanta Hawks,83,Milwaukee Bucks,69,2010,MilwaukeeBucks_AtlantaHawks_2010,home_team,Atlanta Hawks,Milwaukee Bucks,Atlanta Hawks,Milwaukee Bucks,False
+Game 7,"Sun, May 2",Milwaukee Bucks,74,Atlanta Hawks,95,2010,MilwaukeeBucks_AtlantaHawks_2010,away_team,Atlanta Hawks,Milwaukee Bucks,Atlanta Hawks,Milwaukee Bucks,False
+Game 1,"Sat, April 17",Miami Heat,76,Boston Celtics,85,2010,MiamiHeat_BostonCeltics_2010,away_team,Boston Celtics,Boston Celtics,Boston Celtics,Miami Heat,True
+Game 2,"Tue, April 20",Miami Heat,77,Boston Celtics,106,2010,MiamiHeat_BostonCeltics_2010,away_team,Boston Celtics,Boston Celtics,Boston Celtics,Miami Heat,True
+Game 3,"Fri, April 23",Boston Celtics,100,Miami Heat,98,2010,MiamiHeat_BostonCeltics_2010,home_team,Boston Celtics,Boston Celtics,Boston Celtics,Miami Heat,True
+Game 4,"Sun, April 25",Boston Celtics,92,Miami Heat,101,2010,MiamiHeat_BostonCeltics_2010,away_team,Miami Heat,Boston Celtics,Boston Celtics,Miami Heat,True
+Game 5,"Tue, April 27",Miami Heat,86,Boston Celtics,96,2010,MiamiHeat_BostonCeltics_2010,away_team,Boston Celtics,Boston Celtics,Boston Celtics,Miami Heat,True
+Game 1,"Sat, April 17",Chicago Bulls,83,Cleveland Cavaliers,96,2010,ChicagoBulls_ClevelandCavaliers_2010,away_team,Cleveland Cavaliers,Cleveland Cavaliers,Cleveland Cavaliers,Chicago Bulls,True
+Game 2,"Mon, April 19",Chicago Bulls,102,Cleveland Cavaliers,112,2010,ChicagoBulls_ClevelandCavaliers_2010,away_team,Cleveland Cavaliers,Cleveland Cavaliers,Cleveland Cavaliers,Chicago Bulls,True
+Game 3,"Thu, April 22",Cleveland Cavaliers,106,Chicago Bulls,108,2010,ChicagoBulls_ClevelandCavaliers_2010,away_team,Chicago Bulls,Cleveland Cavaliers,Cleveland Cavaliers,Chicago Bulls,True
+Game 4,"Sun, April 25",Cleveland Cavaliers,121,Chicago Bulls,98,2010,ChicagoBulls_ClevelandCavaliers_2010,home_team,Cleveland Cavaliers,Cleveland Cavaliers,Cleveland Cavaliers,Chicago Bulls,True
+Game 5,"Tue, April 27",Chicago Bulls,94,Cleveland Cavaliers,96,2010,ChicagoBulls_ClevelandCavaliers_2010,away_team,Cleveland Cavaliers,Cleveland Cavaliers,Cleveland Cavaliers,Chicago Bulls,True
+Game 1,"Sun, April 18",Charlotte Bobcats,89,Orlando Magic,98,2010,CharlotteBobcats_OrlandoMagic_2010,away_team,Orlando Magic,Orlando Magic,Orlando Magic,Orlando Magic,True
+Game 2,"Wed, April 21",Charlotte Bobcats,77,Orlando Magic,92,2010,CharlotteBobcats_OrlandoMagic_2010,away_team,Orlando Magic,Orlando Magic,Orlando Magic,Orlando Magic,True
+Game 3,"Sat, April 24",Orlando Magic,90,Charlotte Bobcats,86,2010,CharlotteBobcats_OrlandoMagic_2010,home_team,Orlando Magic,Orlando Magic,Orlando Magic,Orlando Magic,True
+Game 4,"Mon, April 26",Orlando Magic,99,Charlotte Bobcats,90,2010,CharlotteBobcats_OrlandoMagic_2010,home_team,Orlando Magic,Orlando Magic,Orlando Magic,Orlando Magic,True
+Game 1,"Sun, April 18",Oklahoma City Thunder,79,Los Angeles Lakers,87,2010,OklahomaCityThunder_LosAngelesLakers_2010,away_team,Los Angeles Lakers,Los Angeles Lakers,Los Angeles Lakers,Oklahoma City Thunder,True
+Game 2,"Tue, April 20",Oklahoma City Thunder,92,Los Angeles Lakers,95,2010,OklahomaCityThunder_LosAngelesLakers_2010,away_team,Los Angeles Lakers,Los Angeles Lakers,Los Angeles Lakers,Oklahoma City Thunder,True
+Game 3,"Thu, April 22",Los Angeles Lakers,96,Oklahoma City Thunder,101,2010,OklahomaCityThunder_LosAngelesLakers_2010,away_team,Oklahoma City Thunder,Los Angeles Lakers,Los Angeles Lakers,Oklahoma City Thunder,True
+Game 4,"Sat, April 24",Los Angeles Lakers,89,Oklahoma City Thunder,110,2010,OklahomaCityThunder_LosAngelesLakers_2010,away_team,Oklahoma City Thunder,Los Angeles Lakers,Los Angeles Lakers,Oklahoma City Thunder,True
+Game 5,"Tue, April 27",Oklahoma City Thunder,87,Los Angeles Lakers,111,2010,OklahomaCityThunder_LosAngelesLakers_2010,away_team,Los Angeles Lakers,Los Angeles Lakers,Los Angeles Lakers,Oklahoma City Thunder,True
+Game 6,"Fri, April 30",Los Angeles Lakers,95,Oklahoma City Thunder,94,2010,OklahomaCityThunder_LosAngelesLakers_2010,home_team,Los Angeles Lakers,Los Angeles Lakers,Los Angeles Lakers,Oklahoma City Thunder,True
+Game 1,"Sun, April 18",Portland Trail Blazers,105,Phoenix Suns,100,2010,PortlandTrailBlazers_PhoenixSuns_2010,home_team,Portland Trail Blazers,Phoenix Suns,Phoenix Suns,Portland Trail Blazers,True
+Game 2,"Tue, April 20",Portland Trail Blazers,90,Phoenix Suns,119,2010,PortlandTrailBlazers_PhoenixSuns_2010,away_team,Phoenix Suns,Phoenix Suns,Phoenix Suns,Portland Trail Blazers,True
+Game 3,"Thu, April 22",Phoenix Suns,108,Portland Trail Blazers,89,2010,PortlandTrailBlazers_PhoenixSuns_2010,home_team,Phoenix Suns,Phoenix Suns,Phoenix Suns,Portland Trail Blazers,True
+Game 4,"Sat, April 24",Phoenix Suns,87,Portland Trail Blazers,96,2010,PortlandTrailBlazers_PhoenixSuns_2010,away_team,Portland Trail Blazers,Phoenix Suns,Phoenix Suns,Portland Trail Blazers,True
+Game 5,"Mon, April 26",Portland Trail Blazers,88,Phoenix Suns,107,2010,PortlandTrailBlazers_PhoenixSuns_2010,away_team,Phoenix Suns,Phoenix Suns,Phoenix Suns,Portland Trail Blazers,True
+Game 6,"Thu, April 29",Phoenix Suns,99,Portland Trail Blazers,90,2010,PortlandTrailBlazers_PhoenixSuns_2010,home_team,Phoenix Suns,Phoenix Suns,Phoenix Suns,Portland Trail Blazers,True
+Game 1,"Sun, April 18",San Antonio Spurs,94,Dallas Mavericks,100,2010,SanAntonioSpurs_DallasMavericks_2010,away_team,Dallas Mavericks,San Antonio Spurs,San Antonio Spurs,Dallas Mavericks,True
+Game 2,"Wed, April 21",San Antonio Spurs,102,Dallas Mavericks,88,2010,SanAntonioSpurs_DallasMavericks_2010,home_team,San Antonio Spurs,San Antonio Spurs,San Antonio Spurs,Dallas Mavericks,True
+Game 3,"Fri, April 23",Dallas Mavericks,90,San Antonio Spurs,94,2010,SanAntonioSpurs_DallasMavericks_2010,away_team,San Antonio Spurs,San Antonio Spurs,San Antonio Spurs,Dallas Mavericks,True
+Game 4,"Sun, April 25",Dallas Mavericks,89,San Antonio Spurs,92,2010,SanAntonioSpurs_DallasMavericks_2010,away_team,San Antonio Spurs,San Antonio Spurs,San Antonio Spurs,Dallas Mavericks,True
+Game 5,"Tue, April 27",San Antonio Spurs,81,Dallas Mavericks,103,2010,SanAntonioSpurs_DallasMavericks_2010,away_team,Dallas Mavericks,San Antonio Spurs,San Antonio Spurs,Dallas Mavericks,True
+Game 6,"Thu, April 29",Dallas Mavericks,87,San Antonio Spurs,97,2010,SanAntonioSpurs_DallasMavericks_2010,away_team,San Antonio Spurs,San Antonio Spurs,San Antonio Spurs,Dallas Mavericks,True
+Game 1,"Sat, April 17",Utah Jazz,113,Denver Nuggets,126,2010,UtahJazz_DenverNuggets_2010,away_team,Denver Nuggets,Utah Jazz,Utah Jazz,Denver Nuggets,True
+Game 2,"Mon, April 19",Utah Jazz,114,Denver Nuggets,111,2010,UtahJazz_DenverNuggets_2010,home_team,Utah Jazz,Utah Jazz,Utah Jazz,Denver Nuggets,True
+Game 3,"Fri, April 23",Denver Nuggets,93,Utah Jazz,105,2010,UtahJazz_DenverNuggets_2010,away_team,Utah Jazz,Utah Jazz,Utah Jazz,Denver Nuggets,True
+Game 4,"Sun, April 25",Denver Nuggets,106,Utah Jazz,117,2010,UtahJazz_DenverNuggets_2010,away_team,Utah Jazz,Utah Jazz,Utah Jazz,Denver Nuggets,True
+Game 5,"Wed, April 28",Utah Jazz,102,Denver Nuggets,116,2010,UtahJazz_DenverNuggets_2010,away_team,Denver Nuggets,Utah Jazz,Utah Jazz,Denver Nuggets,True
+Game 6,"Fri, April 30",Denver Nuggets,104,Utah Jazz,112,2010,UtahJazz_DenverNuggets_2010,away_team,Utah Jazz,Utah Jazz,Utah Jazz,Denver Nuggets,True
+Game 1,"Sat, April 16",Atlanta Hawks,103,Orlando Magic,93,2011,AtlantaHawks_OrlandoMagic_2011,home_team,Atlanta Hawks,Atlanta Hawks,Atlanta Hawks,Orlando Magic,True
+Game 2,"Tue, April 19",Atlanta Hawks,82,Orlando Magic,88,2011,AtlantaHawks_OrlandoMagic_2011,away_team,Orlando Magic,Atlanta Hawks,Atlanta Hawks,Orlando Magic,True
+Game 3,"Fri, April 22",Orlando Magic,84,Atlanta Hawks,88,2011,AtlantaHawks_OrlandoMagic_2011,away_team,Atlanta Hawks,Atlanta Hawks,Atlanta Hawks,Orlando Magic,True
+Game 4,"Sun, April 24",Orlando Magic,85,Atlanta Hawks,88,2011,AtlantaHawks_OrlandoMagic_2011,away_team,Atlanta Hawks,Atlanta Hawks,Atlanta Hawks,Orlando Magic,True
+Game 5,"Tue, April 26",Atlanta Hawks,76,Orlando Magic,101,2011,AtlantaHawks_OrlandoMagic_2011,away_team,Orlando Magic,Atlanta Hawks,Atlanta Hawks,Orlando Magic,True
+Game 6,"Thu, April 28",Orlando Magic,81,Atlanta Hawks,84,2011,AtlantaHawks_OrlandoMagic_2011,away_team,Atlanta Hawks,Atlanta Hawks,Atlanta Hawks,Orlando Magic,True
+Game 1,"Sun, April 17",New York Knicks,85,Boston Celtics,87,2011,NewYorkKnicks_BostonCeltics_2011,away_team,Boston Celtics,Boston Celtics,Boston Celtics,Boston Celtics,True
+Game 2,"Tue, April 19",New York Knicks,93,Boston Celtics,96,2011,NewYorkKnicks_BostonCeltics_2011,away_team,Boston Celtics,Boston Celtics,Boston Celtics,Boston Celtics,True
+Game 3,"Fri, April 22",Boston Celtics,113,New York Knicks,96,2011,NewYorkKnicks_BostonCeltics_2011,home_team,Boston Celtics,Boston Celtics,Boston Celtics,Boston Celtics,True
+Game 4,"Sun, April 24",Boston Celtics,101,New York Knicks,89,2011,NewYorkKnicks_BostonCeltics_2011,home_team,Boston Celtics,Boston Celtics,Boston Celtics,Boston Celtics,True
+Game 1,"Sat, April 16",Indiana Pacers,99,Chicago Bulls,104,2011,IndianaPacers_ChicagoBulls_2011,away_team,Chicago Bulls,Chicago Bulls,Chicago Bulls,Indiana Pacers,True
+Game 2,"Mon, April 18",Indiana Pacers,90,Chicago Bulls,96,2011,IndianaPacers_ChicagoBulls_2011,away_team,Chicago Bulls,Chicago Bulls,Chicago Bulls,Indiana Pacers,True
+Game 3,"Thu, April 21",Chicago Bulls,88,Indiana Pacers,84,2011,IndianaPacers_ChicagoBulls_2011,home_team,Chicago Bulls,Chicago Bulls,Chicago Bulls,Indiana Pacers,True
+Game 4,"Sat, April 23",Chicago Bulls,84,Indiana Pacers,89,2011,IndianaPacers_ChicagoBulls_2011,away_team,Indiana Pacers,Chicago Bulls,Chicago Bulls,Indiana Pacers,True
+Game 5,"Tue, April 26",Indiana Pacers,89,Chicago Bulls,116,2011,IndianaPacers_ChicagoBulls_2011,away_team,Chicago Bulls,Chicago Bulls,Chicago Bulls,Indiana Pacers,True
+Game 1,"Sat, April 16",Philadelphia 76ers,89,Miami Heat,97,2011,Philadelphia76ers_MiamiHeat_2011,away_team,Miami Heat,Miami Heat,Miami Heat,Philadelphia 76ers,True
+Game 2,"Mon, April 18",Philadelphia 76ers,73,Miami Heat,94,2011,Philadelphia76ers_MiamiHeat_2011,away_team,Miami Heat,Miami Heat,Miami Heat,Philadelphia 76ers,True
+Game 3,"Thu, April 21",Miami Heat,100,Philadelphia 76ers,94,2011,Philadelphia76ers_MiamiHeat_2011,home_team,Miami Heat,Miami Heat,Miami Heat,Philadelphia 76ers,True
+Game 4,"Sun, April 24",Miami Heat,82,Philadelphia 76ers,86,2011,Philadelphia76ers_MiamiHeat_2011,away_team,Philadelphia 76ers,Miami Heat,Miami Heat,Philadelphia 76ers,True
+Game 5,"Wed, April 27",Philadelphia 76ers,91,Miami Heat,97,2011,Philadelphia76ers_MiamiHeat_2011,away_team,Miami Heat,Miami Heat,Miami Heat,Philadelphia 76ers,True
+Game 1,"Sat, April 16",Portland Trail Blazers,81,Dallas Mavericks,89,2011,PortlandTrailBlazers_DallasMavericks_2011,away_team,Dallas Mavericks,Dallas Mavericks,Dallas Mavericks,Portland Trail Blazers,True
+Game 2,"Tue, April 19",Portland Trail Blazers,89,Dallas Mavericks,101,2011,PortlandTrailBlazers_DallasMavericks_2011,away_team,Dallas Mavericks,Dallas Mavericks,Dallas Mavericks,Portland Trail Blazers,True
+Game 3,"Thu, April 21",Dallas Mavericks,92,Portland Trail Blazers,97,2011,PortlandTrailBlazers_DallasMavericks_2011,away_team,Portland Trail Blazers,Dallas Mavericks,Dallas Mavericks,Portland Trail Blazers,True
+Game 4,"Sat, April 23",Dallas Mavericks,82,Portland Trail Blazers,84,2011,PortlandTrailBlazers_DallasMavericks_2011,away_team,Portland Trail Blazers,Dallas Mavericks,Dallas Mavericks,Portland Trail Blazers,True
+Game 5,"Mon, April 25",Portland Trail Blazers,82,Dallas Mavericks,93,2011,PortlandTrailBlazers_DallasMavericks_2011,away_team,Dallas Mavericks,Dallas Mavericks,Dallas Mavericks,Portland Trail Blazers,True
+Game 6,"Thu, April 28",Dallas Mavericks,103,Portland Trail Blazers,96,2011,PortlandTrailBlazers_DallasMavericks_2011,home_team,Dallas Mavericks,Dallas Mavericks,Dallas Mavericks,Portland Trail Blazers,True
+Game 1,"Sun, April 17",New Orleans Hornets,109,Los Angeles Lakers,100,2011,NewOrleansHornets_LosAngelesLakers_2011,home_team,New Orleans Hornets,Los Angeles Lakers,Los Angeles Lakers,New Orleans Hornets,True
+Game 2,"Wed, April 20",New Orleans Hornets,78,Los Angeles Lakers,87,2011,NewOrleansHornets_LosAngelesLakers_2011,away_team,Los Angeles Lakers,Los Angeles Lakers,Los Angeles Lakers,New Orleans Hornets,True
+Game 3,"Fri, April 22",Los Angeles Lakers,100,New Orleans Hornets,86,2011,NewOrleansHornets_LosAngelesLakers_2011,home_team,Los Angeles Lakers,Los Angeles Lakers,Los Angeles Lakers,New Orleans Hornets,True
+Game 4,"Sun, April 24",Los Angeles Lakers,88,New Orleans Hornets,93,2011,NewOrleansHornets_LosAngelesLakers_2011,away_team,New Orleans Hornets,Los Angeles Lakers,Los Angeles Lakers,New Orleans Hornets,True
+Game 5,"Tue, April 26",New Orleans Hornets,90,Los Angeles Lakers,106,2011,NewOrleansHornets_LosAngelesLakers_2011,away_team,Los Angeles Lakers,Los Angeles Lakers,Los Angeles Lakers,New Orleans Hornets,True
+Game 6,"Thu, April 28",Los Angeles Lakers,98,New Orleans Hornets,80,2011,NewOrleansHornets_LosAngelesLakers_2011,home_team,Los Angeles Lakers,Los Angeles Lakers,Los Angeles Lakers,New Orleans Hornets,True
+Game 1,"Sun, April 17",Memphis Grizzlies,101,San Antonio Spurs,98,2011,MemphisGrizzlies_SanAntonioSpurs_2011,home_team,Memphis Grizzlies,Memphis Grizzlies,Memphis Grizzlies,San Antonio Spurs,True
+Game 2,"Wed, April 20",Memphis Grizzlies,87,San Antonio Spurs,93,2011,MemphisGrizzlies_SanAntonioSpurs_2011,away_team,San Antonio Spurs,Memphis Grizzlies,Memphis Grizzlies,San Antonio Spurs,True
+Game 3,"Sat, April 23",San Antonio Spurs,88,Memphis Grizzlies,91,2011,MemphisGrizzlies_SanAntonioSpurs_2011,away_team,Memphis Grizzlies,Memphis Grizzlies,Memphis Grizzlies,San Antonio Spurs,True
+Game 4,"Mon, April 25",San Antonio Spurs,86,Memphis Grizzlies,104,2011,MemphisGrizzlies_SanAntonioSpurs_2011,away_team,Memphis Grizzlies,Memphis Grizzlies,Memphis Grizzlies,San Antonio Spurs,True
+Game 5,"Wed, April 27",Memphis Grizzlies,103,San Antonio Spurs,110,2011,MemphisGrizzlies_SanAntonioSpurs_2011,away_team,San Antonio Spurs,Memphis Grizzlies,Memphis Grizzlies,San Antonio Spurs,True
+Game 6,"Fri, April 29",San Antonio Spurs,91,Memphis Grizzlies,99,2011,MemphisGrizzlies_SanAntonioSpurs_2011,away_team,Memphis Grizzlies,Memphis Grizzlies,Memphis Grizzlies,San Antonio Spurs,True
+Game 1,"Sun, April 17",Denver Nuggets,103,Oklahoma City Thunder,107,2011,DenverNuggets_OklahomaCityThunder_2011,away_team,Oklahoma City Thunder,Oklahoma City Thunder,Oklahoma City Thunder,Denver Nuggets,True
+Game 2,"Wed, April 20",Denver Nuggets,89,Oklahoma City Thunder,106,2011,DenverNuggets_OklahomaCityThunder_2011,away_team,Oklahoma City Thunder,Oklahoma City Thunder,Oklahoma City Thunder,Denver Nuggets,True
+Game 3,"Sat, April 23",Oklahoma City Thunder,97,Denver Nuggets,94,2011,DenverNuggets_OklahomaCityThunder_2011,home_team,Oklahoma City Thunder,Oklahoma City Thunder,Oklahoma City Thunder,Denver Nuggets,True
+Game 4,"Mon, April 25",Oklahoma City Thunder,101,Denver Nuggets,104,2011,DenverNuggets_OklahomaCityThunder_2011,away_team,Denver Nuggets,Oklahoma City Thunder,Oklahoma City Thunder,Denver Nuggets,True
+Game 5,"Wed, April 27",Denver Nuggets,97,Oklahoma City Thunder,100,2011,DenverNuggets_OklahomaCityThunder_2011,away_team,Oklahoma City Thunder,Oklahoma City Thunder,Oklahoma City Thunder,Denver Nuggets,True
+Game 1,"Sun, April 29",Boston Celtics,74,Atlanta Hawks,83,2012,BostonCeltics_AtlantaHawks_2012,away_team,Atlanta Hawks,Boston Celtics,Boston Celtics,Atlanta Hawks,True
+Game 2,"Tue, May 1",Boston Celtics,87,Atlanta Hawks,80,2012,BostonCeltics_AtlantaHawks_2012,home_team,Boston Celtics,Boston Celtics,Boston Celtics,Atlanta Hawks,True
+Game 3,"Fri, May 4",Atlanta Hawks,84,Boston Celtics,90,2012,BostonCeltics_AtlantaHawks_2012,away_team,Boston Celtics,Boston Celtics,Boston Celtics,Atlanta Hawks,True
+Game 4,"Sun, May 6",Atlanta Hawks,79,Boston Celtics,101,2012,BostonCeltics_AtlantaHawks_2012,away_team,Boston Celtics,Boston Celtics,Boston Celtics,Atlanta Hawks,True
+Game 5,"Tue, May 8",Boston Celtics,86,Atlanta Hawks,87,2012,BostonCeltics_AtlantaHawks_2012,away_team,Atlanta Hawks,Boston Celtics,Boston Celtics,Atlanta Hawks,True
+Game 6,"Thu, May 10",Atlanta Hawks,80,Boston Celtics,83,2012,BostonCeltics_AtlantaHawks_2012,away_team,Boston Celtics,Boston Celtics,Boston Celtics,Atlanta Hawks,True
+Game 1,"Sat, April 28",Orlando Magic,81,Indiana Pacers,77,2012,OrlandoMagic_IndianaPacers_2012,home_team,Orlando Magic,Indiana Pacers,Indiana Pacers,Orlando Magic,True
+Game 2,"Mon, April 30",Orlando Magic,78,Indiana Pacers,93,2012,OrlandoMagic_IndianaPacers_2012,away_team,Indiana Pacers,Indiana Pacers,Indiana Pacers,Orlando Magic,True
+Game 3,"Wed, May 2",Indiana Pacers,97,Orlando Magic,74,2012,OrlandoMagic_IndianaPacers_2012,home_team,Indiana Pacers,Indiana Pacers,Indiana Pacers,Orlando Magic,True
+Game 4,"Sat, May 5",Indiana Pacers,101,Orlando Magic,99,2012,OrlandoMagic_IndianaPacers_2012,home_team,Indiana Pacers,Indiana Pacers,Indiana Pacers,Orlando Magic,True
+Game 5,"Tue, May 8",Orlando Magic,87,Indiana Pacers,105,2012,OrlandoMagic_IndianaPacers_2012,away_team,Indiana Pacers,Indiana Pacers,Indiana Pacers,Orlando Magic,True
+Game 1,"Sat, April 28",New York Knicks,67,Miami Heat,100,2012,NewYorkKnicks_MiamiHeat_2012,away_team,Miami Heat,Miami Heat,Miami Heat,New York Knicks,True
+Game 2,"Mon, April 30",New York Knicks,94,Miami Heat,104,2012,NewYorkKnicks_MiamiHeat_2012,away_team,Miami Heat,Miami Heat,Miami Heat,New York Knicks,True
+Game 3,"Thu, May 3",Miami Heat,87,New York Knicks,70,2012,NewYorkKnicks_MiamiHeat_2012,home_team,Miami Heat,Miami Heat,Miami Heat,New York Knicks,True
+Game 4,"Sun, May 6",Miami Heat,87,New York Knicks,89,2012,NewYorkKnicks_MiamiHeat_2012,away_team,New York Knicks,Miami Heat,Miami Heat,New York Knicks,True
+Game 5,"Wed, May 9",New York Knicks,94,Miami Heat,106,2012,NewYorkKnicks_MiamiHeat_2012,away_team,Miami Heat,Miami Heat,Miami Heat,New York Knicks,True
+Game 1,"Sat, April 28",Philadelphia 76ers,91,Chicago Bulls,103,2012,Philadelphia76ers_ChicagoBulls_2012,away_team,Chicago Bulls,Philadelphia 76ers,Philadelphia 76ers,Chicago Bulls,True
+Game 2,"Tue, May 1",Philadelphia 76ers,109,Chicago Bulls,92,2012,Philadelphia76ers_ChicagoBulls_2012,home_team,Philadelphia 76ers,Philadelphia 76ers,Philadelphia 76ers,Chicago Bulls,True
+Game 3,"Fri, May 4",Chicago Bulls,74,Philadelphia 76ers,79,2012,Philadelphia76ers_ChicagoBulls_2012,away_team,Philadelphia 76ers,Philadelphia 76ers,Philadelphia 76ers,Chicago Bulls,True
+Game 4,"Sun, May 6",Chicago Bulls,82,Philadelphia 76ers,89,2012,Philadelphia76ers_ChicagoBulls_2012,away_team,Philadelphia 76ers,Philadelphia 76ers,Philadelphia 76ers,Chicago Bulls,True
+Game 5,"Tue, May 8",Philadelphia 76ers,69,Chicago Bulls,77,2012,Philadelphia76ers_ChicagoBulls_2012,away_team,Chicago Bulls,Philadelphia 76ers,Philadelphia 76ers,Chicago Bulls,True
+Game 6,"Thu, May 10",Chicago Bulls,78,Philadelphia 76ers,79,2012,Philadelphia76ers_ChicagoBulls_2012,away_team,Philadelphia 76ers,Philadelphia 76ers,Philadelphia 76ers,Chicago Bulls,True
+Game 1,"Sun, April 29",Los Angeles Clippers,99,Memphis Grizzlies,98,2012,LosAngelesClippers_MemphisGrizzlies_2012,home_team,Los Angeles Clippers,Los Angeles Clippers,Los Angeles Clippers,Memphis Grizzlies,True
+Game 2,"Wed, May 2",Los Angeles Clippers,98,Memphis Grizzlies,105,2012,LosAngelesClippers_MemphisGrizzlies_2012,away_team,Memphis Grizzlies,Los Angeles Clippers,Los Angeles Clippers,Memphis Grizzlies,True
+Game 3,"Sat, May 5",Memphis Grizzlies,86,Los Angeles Clippers,87,2012,LosAngelesClippers_MemphisGrizzlies_2012,away_team,Los Angeles Clippers,Los Angeles Clippers,Los Angeles Clippers,Memphis Grizzlies,True
+Game 4,"Mon, May 7",Memphis Grizzlies,97,Los Angeles Clippers,101,2012,LosAngelesClippers_MemphisGrizzlies_2012,away_team,Los Angeles Clippers,Los Angeles Clippers,Los Angeles Clippers,Memphis Grizzlies,True
+Game 5,"Wed, May 9",Los Angeles Clippers,80,Memphis Grizzlies,92,2012,LosAngelesClippers_MemphisGrizzlies_2012,away_team,Memphis Grizzlies,Los Angeles Clippers,Los Angeles Clippers,Memphis Grizzlies,True
+Game 6,"Fri, May 11",Memphis Grizzlies,90,Los Angeles Clippers,88,2012,LosAngelesClippers_MemphisGrizzlies_2012,home_team,Memphis Grizzlies,Los Angeles Clippers,Los Angeles Clippers,Memphis Grizzlies,True
+Game 7,"Sun, May 13",Los Angeles Clippers,82,Memphis Grizzlies,72,2012,LosAngelesClippers_MemphisGrizzlies_2012,home_team,Los Angeles Clippers,Los Angeles Clippers,Los Angeles Clippers,Memphis Grizzlies,True
+Game 1,"Sun, April 29",Denver Nuggets,88,Los Angeles Lakers,103,2012,DenverNuggets_LosAngelesLakers_2012,away_team,Los Angeles Lakers,Los Angeles Lakers,Los Angeles Lakers,Denver Nuggets,True
+Game 2,"Tue, May 1",Denver Nuggets,100,Los Angeles Lakers,104,2012,DenverNuggets_LosAngelesLakers_2012,away_team,Los Angeles Lakers,Los Angeles Lakers,Los Angeles Lakers,Denver Nuggets,True
+Game 3,"Fri, May 4",Los Angeles Lakers,84,Denver Nuggets,99,2012,DenverNuggets_LosAngelesLakers_2012,away_team,Denver Nuggets,Los Angeles Lakers,Los Angeles Lakers,Denver Nuggets,True
+Game 4,"Sun, May 6",Los Angeles Lakers,92,Denver Nuggets,88,2012,DenverNuggets_LosAngelesLakers_2012,home_team,Los Angeles Lakers,Los Angeles Lakers,Los Angeles Lakers,Denver Nuggets,True
+Game 5,"Tue, May 8",Denver Nuggets,102,Los Angeles Lakers,99,2012,DenverNuggets_LosAngelesLakers_2012,home_team,Denver Nuggets,Los Angeles Lakers,Los Angeles Lakers,Denver Nuggets,True
+Game 6,"Thu, May 10",Los Angeles Lakers,96,Denver Nuggets,113,2012,DenverNuggets_LosAngelesLakers_2012,away_team,Denver Nuggets,Los Angeles Lakers,Los Angeles Lakers,Denver Nuggets,True
+Game 7,"Sat, May 12",Denver Nuggets,87,Los Angeles Lakers,96,2012,DenverNuggets_LosAngelesLakers_2012,away_team,Los Angeles Lakers,Los Angeles Lakers,Los Angeles Lakers,Denver Nuggets,True
+Game 1,"Sat, April 28",Dallas Mavericks,98,Oklahoma City Thunder,99,2012,DallasMavericks_OklahomaCityThunder_2012,away_team,Oklahoma City Thunder,Oklahoma City Thunder,Oklahoma City Thunder,Oklahoma City Thunder,True
+Game 2,"Mon, April 30",Dallas Mavericks,99,Oklahoma City Thunder,102,2012,DallasMavericks_OklahomaCityThunder_2012,away_team,Oklahoma City Thunder,Oklahoma City Thunder,Oklahoma City Thunder,Oklahoma City Thunder,True
+Game 3,"Thu, May 3",Oklahoma City Thunder,95,Dallas Mavericks,79,2012,DallasMavericks_OklahomaCityThunder_2012,home_team,Oklahoma City Thunder,Oklahoma City Thunder,Oklahoma City Thunder,Oklahoma City Thunder,True
+Game 4,"Sat, May 5",Oklahoma City Thunder,103,Dallas Mavericks,97,2012,DallasMavericks_OklahomaCityThunder_2012,home_team,Oklahoma City Thunder,Oklahoma City Thunder,Oklahoma City Thunder,Oklahoma City Thunder,True
+Game 1,"Sun, April 29",Utah Jazz,91,San Antonio Spurs,106,2012,UtahJazz_SanAntonioSpurs_2012,away_team,San Antonio Spurs,San Antonio Spurs,San Antonio Spurs,San Antonio Spurs,True
+Game 2,"Wed, May 2",Utah Jazz,83,San Antonio Spurs,114,2012,UtahJazz_SanAntonioSpurs_2012,away_team,San Antonio Spurs,San Antonio Spurs,San Antonio Spurs,San Antonio Spurs,True
+Game 3,"Sat, May 5",San Antonio Spurs,102,Utah Jazz,90,2012,UtahJazz_SanAntonioSpurs_2012,home_team,San Antonio Spurs,San Antonio Spurs,San Antonio Spurs,San Antonio Spurs,True
+Game 4,"Mon, May 7",San Antonio Spurs,87,Utah Jazz,81,2012,UtahJazz_SanAntonioSpurs_2012,home_team,San Antonio Spurs,San Antonio Spurs,San Antonio Spurs,San Antonio Spurs,True
+Game 1,"Sat, April 20",Chicago Bulls,89,Brooklyn Nets,106,2013,ChicagoBulls_BrooklynNets_2013,away_team,Brooklyn Nets,Chicago Bulls,Chicago Bulls,Brooklyn Nets,True
+Game 2,"Mon, April 22",Chicago Bulls,90,Brooklyn Nets,82,2013,ChicagoBulls_BrooklynNets_2013,home_team,Chicago Bulls,Chicago Bulls,Chicago Bulls,Brooklyn Nets,True
+Game 3,"Thu, April 25",Brooklyn Nets,76,Chicago Bulls,79,2013,ChicagoBulls_BrooklynNets_2013,away_team,Chicago Bulls,Chicago Bulls,Chicago Bulls,Brooklyn Nets,True
+Game 4,"Sat, April 27",Brooklyn Nets,134,Chicago Bulls,142,2013,ChicagoBulls_BrooklynNets_2013,away_team,Chicago Bulls,Chicago Bulls,Chicago Bulls,Brooklyn Nets,True
+Game 5,"Mon, April 29",Chicago Bulls,91,Brooklyn Nets,110,2013,ChicagoBulls_BrooklynNets_2013,away_team,Brooklyn Nets,Chicago Bulls,Chicago Bulls,Brooklyn Nets,True
+Game 6,"Thu, May 2",Brooklyn Nets,95,Chicago Bulls,92,2013,ChicagoBulls_BrooklynNets_2013,home_team,Brooklyn Nets,Chicago Bulls,Chicago Bulls,Brooklyn Nets,True
+Game 7,"Sat, May 4",Chicago Bulls,99,Brooklyn Nets,93,2013,ChicagoBulls_BrooklynNets_2013,home_team,Chicago Bulls,Chicago Bulls,Chicago Bulls,Brooklyn Nets,True
+Game 1,"Sun, April 21",Atlanta Hawks,90,Indiana Pacers,107,2013,AtlantaHawks_IndianaPacers_2013,away_team,Indiana Pacers,Indiana Pacers,Indiana Pacers,Atlanta Hawks,True
+Game 2,"Wed, April 24",Atlanta Hawks,98,Indiana Pacers,113,2013,AtlantaHawks_IndianaPacers_2013,away_team,Indiana Pacers,Indiana Pacers,Indiana Pacers,Atlanta Hawks,True
+Game 3,"Sat, April 27",Indiana Pacers,69,Atlanta Hawks,90,2013,AtlantaHawks_IndianaPacers_2013,away_team,Atlanta Hawks,Indiana Pacers,Indiana Pacers,Atlanta Hawks,True
+Game 4,"Mon, April 29",Indiana Pacers,91,Atlanta Hawks,102,2013,AtlantaHawks_IndianaPacers_2013,away_team,Atlanta Hawks,Indiana Pacers,Indiana Pacers,Atlanta Hawks,True
+Game 5,"Wed, May 1",Atlanta Hawks,83,Indiana Pacers,106,2013,AtlantaHawks_IndianaPacers_2013,away_team,Indiana Pacers,Indiana Pacers,Indiana Pacers,Atlanta Hawks,True
+Game 6,"Fri, May 3",Indiana Pacers,81,Atlanta Hawks,73,2013,AtlantaHawks_IndianaPacers_2013,home_team,Indiana Pacers,Indiana Pacers,Indiana Pacers,Atlanta Hawks,True
+Game 1,"Sun, April 21",Milwaukee Bucks,87,Miami Heat,110,2013,MilwaukeeBucks_MiamiHeat_2013,away_team,Miami Heat,Miami Heat,Miami Heat,Miami Heat,True
+Game 2,"Tue, April 23",Milwaukee Bucks,86,Miami Heat,98,2013,MilwaukeeBucks_MiamiHeat_2013,away_team,Miami Heat,Miami Heat,Miami Heat,Miami Heat,True
+Game 3,"Thu, April 25",Miami Heat,104,Milwaukee Bucks,91,2013,MilwaukeeBucks_MiamiHeat_2013,home_team,Miami Heat,Miami Heat,Miami Heat,Miami Heat,True
+Game 4,"Sun, April 28",Miami Heat,88,Milwaukee Bucks,77,2013,MilwaukeeBucks_MiamiHeat_2013,home_team,Miami Heat,Miami Heat,Miami Heat,Miami Heat,True
+Game 1,"Sat, April 20",Boston Celtics,78,New York Knicks,85,2013,BostonCeltics_NewYorkKnicks_2013,away_team,New York Knicks,New York Knicks,New York Knicks,Boston Celtics,True
+Game 2,"Tue, April 23",Boston Celtics,71,New York Knicks,87,2013,BostonCeltics_NewYorkKnicks_2013,away_team,New York Knicks,New York Knicks,New York Knicks,Boston Celtics,True
+Game 3,"Fri, April 26",New York Knicks,90,Boston Celtics,76,2013,BostonCeltics_NewYorkKnicks_2013,home_team,New York Knicks,New York Knicks,New York Knicks,Boston Celtics,True
+Game 4,"Sun, April 28",New York Knicks,90,Boston Celtics,97,2013,BostonCeltics_NewYorkKnicks_2013,away_team,Boston Celtics,New York Knicks,New York Knicks,Boston Celtics,True
+Game 5,"Wed, May 1",Boston Celtics,92,New York Knicks,86,2013,BostonCeltics_NewYorkKnicks_2013,home_team,Boston Celtics,New York Knicks,New York Knicks,Boston Celtics,True
+Game 6,"Fri, May 3",New York Knicks,88,Boston Celtics,80,2013,BostonCeltics_NewYorkKnicks_2013,home_team,New York Knicks,New York Knicks,New York Knicks,Boston Celtics,True
+Game 1,"Sat, April 20",Golden State Warriors,95,Denver Nuggets,97,2013,GoldenStateWarriors_DenverNuggets_2013,away_team,Denver Nuggets,Golden State Warriors,Golden State Warriors,Denver Nuggets,True
+Game 2,"Tue, April 23",Golden State Warriors,131,Denver Nuggets,117,2013,GoldenStateWarriors_DenverNuggets_2013,home_team,Golden State Warriors,Golden State Warriors,Golden State Warriors,Denver Nuggets,True
+Game 3,"Fri, April 26",Denver Nuggets,108,Golden State Warriors,110,2013,GoldenStateWarriors_DenverNuggets_2013,away_team,Golden State Warriors,Golden State Warriors,Golden State Warriors,Denver Nuggets,True
+Game 4,"Sun, April 28",Denver Nuggets,101,Golden State Warriors,115,2013,GoldenStateWarriors_DenverNuggets_2013,away_team,Golden State Warriors,Golden State Warriors,Golden State Warriors,Denver Nuggets,True
+Game 5,"Tue, April 30",Golden State Warriors,100,Denver Nuggets,107,2013,GoldenStateWarriors_DenverNuggets_2013,away_team,Denver Nuggets,Golden State Warriors,Golden State Warriors,Denver Nuggets,True
+Game 6,"Thu, May 2",Denver Nuggets,88,Golden State Warriors,92,2013,GoldenStateWarriors_DenverNuggets_2013,away_team,Golden State Warriors,Golden State Warriors,Golden State Warriors,Denver Nuggets,True
+Game 1,"Sat, April 20",Memphis Grizzlies,91,Los Angeles Clippers,112,2013,MemphisGrizzlies_LosAngelesClippers_2013,away_team,Los Angeles Clippers,Memphis Grizzlies,Memphis Grizzlies,Los Angeles Clippers,True
+Game 2,"Mon, April 22",Memphis Grizzlies,91,Los Angeles Clippers,93,2013,MemphisGrizzlies_LosAngelesClippers_2013,away_team,Los Angeles Clippers,Memphis Grizzlies,Memphis Grizzlies,Los Angeles Clippers,True
+Game 3,"Thu, April 25",Los Angeles Clippers,82,Memphis Grizzlies,94,2013,MemphisGrizzlies_LosAngelesClippers_2013,away_team,Memphis Grizzlies,Memphis Grizzlies,Memphis Grizzlies,Los Angeles Clippers,True
+Game 4,"Sat, April 27",Los Angeles Clippers,83,Memphis Grizzlies,104,2013,MemphisGrizzlies_LosAngelesClippers_2013,away_team,Memphis Grizzlies,Memphis Grizzlies,Memphis Grizzlies,Los Angeles Clippers,True
+Game 5,"Tue, April 30",Memphis Grizzlies,103,Los Angeles Clippers,93,2013,MemphisGrizzlies_LosAngelesClippers_2013,home_team,Memphis Grizzlies,Memphis Grizzlies,Memphis Grizzlies,Los Angeles Clippers,True
+Game 6,"Fri, May 3",Los Angeles Clippers,105,Memphis Grizzlies,118,2013,MemphisGrizzlies_LosAngelesClippers_2013,away_team,Memphis Grizzlies,Memphis Grizzlies,Memphis Grizzlies,Los Angeles Clippers,True
+Game 1,"Sun, April 21",Houston Rockets,91,Oklahoma City Thunder,120,2013,HoustonRockets_OklahomaCityThunder_2013,away_team,Oklahoma City Thunder,Oklahoma City Thunder,Oklahoma City Thunder,Houston Rockets,True
+Game 2,"Wed, April 24",Houston Rockets,102,Oklahoma City Thunder,105,2013,HoustonRockets_OklahomaCityThunder_2013,away_team,Oklahoma City Thunder,Oklahoma City Thunder,Oklahoma City Thunder,Houston Rockets,True
+Game 3,"Sat, April 27",Oklahoma City Thunder,104,Houston Rockets,101,2013,HoustonRockets_OklahomaCityThunder_2013,home_team,Oklahoma City Thunder,Oklahoma City Thunder,Oklahoma City Thunder,Houston Rockets,True
+Game 4,"Mon, April 29",Oklahoma City Thunder,103,Houston Rockets,105,2013,HoustonRockets_OklahomaCityThunder_2013,away_team,Houston Rockets,Oklahoma City Thunder,Oklahoma City Thunder,Houston Rockets,True
+Game 5,"Wed, May 1",Houston Rockets,107,Oklahoma City Thunder,100,2013,HoustonRockets_OklahomaCityThunder_2013,home_team,Houston Rockets,Oklahoma City Thunder,Oklahoma City Thunder,Houston Rockets,True
+Game 6,"Fri, May 3",Oklahoma City Thunder,103,Houston Rockets,94,2013,HoustonRockets_OklahomaCityThunder_2013,home_team,Oklahoma City Thunder,Oklahoma City Thunder,Oklahoma City Thunder,Houston Rockets,True
+Game 1,"Sun, April 21",Los Angeles Lakers,79,San Antonio Spurs,91,2013,LosAngelesLakers_SanAntonioSpurs_2013,away_team,San Antonio Spurs,San Antonio Spurs,San Antonio Spurs,San Antonio Spurs,True
+Game 2,"Wed, April 24",Los Angeles Lakers,91,San Antonio Spurs,102,2013,LosAngelesLakers_SanAntonioSpurs_2013,away_team,San Antonio Spurs,San Antonio Spurs,San Antonio Spurs,San Antonio Spurs,True
+Game 3,"Fri, April 26",San Antonio Spurs,120,Los Angeles Lakers,89,2013,LosAngelesLakers_SanAntonioSpurs_2013,home_team,San Antonio Spurs,San Antonio Spurs,San Antonio Spurs,San Antonio Spurs,True
+Game 4,"Sun, April 28",San Antonio Spurs,103,Los Angeles Lakers,82,2013,LosAngelesLakers_SanAntonioSpurs_2013,home_team,San Antonio Spurs,San Antonio Spurs,San Antonio Spurs,San Antonio Spurs,True
+Game 1,"Sat, April 19",Brooklyn Nets,94,Toronto Raptors,87,2014,BrooklynNets_TorontoRaptors_2014,home_team,Brooklyn Nets,Toronto Raptors,Brooklyn Nets,Toronto Raptors,False
+Game 2,"Tue, April 22",Brooklyn Nets,95,Toronto Raptors,100,2014,BrooklynNets_TorontoRaptors_2014,away_team,Toronto Raptors,Toronto Raptors,Brooklyn Nets,Toronto Raptors,False
+Game 3,"Fri, April 25",Toronto Raptors,98,Brooklyn Nets,102,2014,BrooklynNets_TorontoRaptors_2014,away_team,Brooklyn Nets,Toronto Raptors,Brooklyn Nets,Toronto Raptors,False
+Game 4,"Sun, April 27",Toronto Raptors,87,Brooklyn Nets,79,2014,BrooklynNets_TorontoRaptors_2014,home_team,Toronto Raptors,Toronto Raptors,Brooklyn Nets,Toronto Raptors,False
+Game 5,"Wed, April 30",Brooklyn Nets,113,Toronto Raptors,115,2014,BrooklynNets_TorontoRaptors_2014,away_team,Toronto Raptors,Toronto Raptors,Brooklyn Nets,Toronto Raptors,False
+Game 6,"Fri, May 2",Toronto Raptors,83,Brooklyn Nets,97,2014,BrooklynNets_TorontoRaptors_2014,away_team,Brooklyn Nets,Toronto Raptors,Brooklyn Nets,Toronto Raptors,False
+Game 7,"Sun, May 4",Brooklyn Nets,104,Toronto Raptors,103,2014,BrooklynNets_TorontoRaptors_2014,home_team,Brooklyn Nets,Toronto Raptors,Brooklyn Nets,Toronto Raptors,False
+Game 1,"Sat, April 19",Atlanta Hawks,101,Indiana Pacers,93,2014,AtlantaHawks_IndianaPacers_2014,home_team,Atlanta Hawks,Atlanta Hawks,Indiana Pacers,Atlanta Hawks,False
+Game 2,"Tue, April 22",Atlanta Hawks,85,Indiana Pacers,101,2014,AtlantaHawks_IndianaPacers_2014,away_team,Indiana Pacers,Atlanta Hawks,Indiana Pacers,Atlanta Hawks,False
+Game 3,"Thu, April 24",Indiana Pacers,85,Atlanta Hawks,98,2014,AtlantaHawks_IndianaPacers_2014,away_team,Atlanta Hawks,Atlanta Hawks,Indiana Pacers,Atlanta Hawks,False
+Game 4,"Sat, April 26",Indiana Pacers,91,Atlanta Hawks,88,2014,AtlantaHawks_IndianaPacers_2014,home_team,Indiana Pacers,Atlanta Hawks,Indiana Pacers,Atlanta Hawks,False
+Game 5,"Mon, April 28",Atlanta Hawks,107,Indiana Pacers,97,2014,AtlantaHawks_IndianaPacers_2014,home_team,Atlanta Hawks,Atlanta Hawks,Indiana Pacers,Atlanta Hawks,False
+Game 6,"Thu, May 1",Indiana Pacers,95,Atlanta Hawks,88,2014,AtlantaHawks_IndianaPacers_2014,home_team,Indiana Pacers,Atlanta Hawks,Indiana Pacers,Atlanta Hawks,False
+Game 7,"Sat, May 3",Atlanta Hawks,80,Indiana Pacers,92,2014,AtlantaHawks_IndianaPacers_2014,away_team,Indiana Pacers,Atlanta Hawks,Indiana Pacers,Atlanta Hawks,False
+Game 1,"Sun, April 20",Charlotte Bobcats,88,Miami Heat,99,2014,CharlotteBobcats_MiamiHeat_2014,away_team,Miami Heat,Miami Heat,Miami Heat,Miami Heat,True
+Game 2,"Wed, April 23",Charlotte Bobcats,97,Miami Heat,101,2014,CharlotteBobcats_MiamiHeat_2014,away_team,Miami Heat,Miami Heat,Miami Heat,Miami Heat,True
+Game 3,"Sat, April 26",Miami Heat,98,Charlotte Bobcats,85,2014,CharlotteBobcats_MiamiHeat_2014,home_team,Miami Heat,Miami Heat,Miami Heat,Miami Heat,True
+Game 4,"Mon, April 28",Miami Heat,109,Charlotte Bobcats,98,2014,CharlotteBobcats_MiamiHeat_2014,home_team,Miami Heat,Miami Heat,Miami Heat,Miami Heat,True
+Game 1,"Sun, April 20",Washington Wizards,102,Chicago Bulls,93,2014,WashingtonWizards_ChicagoBulls_2014,home_team,Washington Wizards,Washington Wizards,Washington Wizards,Chicago Bulls,True
+Game 2,"Tue, April 22",Washington Wizards,101,Chicago Bulls,99,2014,WashingtonWizards_ChicagoBulls_2014,home_team,Washington Wizards,Washington Wizards,Washington Wizards,Chicago Bulls,True
+Game 3,"Fri, April 25",Chicago Bulls,100,Washington Wizards,97,2014,WashingtonWizards_ChicagoBulls_2014,home_team,Chicago Bulls,Washington Wizards,Washington Wizards,Chicago Bulls,True
+Game 4,"Sun, April 27",Chicago Bulls,89,Washington Wizards,98,2014,WashingtonWizards_ChicagoBulls_2014,away_team,Washington Wizards,Washington Wizards,Washington Wizards,Chicago Bulls,True
+Game 5,"Tue, April 29",Washington Wizards,75,Chicago Bulls,69,2014,WashingtonWizards_ChicagoBulls_2014,home_team,Washington Wizards,Washington Wizards,Washington Wizards,Chicago Bulls,True
+Game 1,"Sat, April 19",Golden State Warriors,109,Los Angeles Clippers,105,2014,GoldenStateWarriors_LosAngelesClippers_2014,home_team,Golden State Warriors,Los Angeles Clippers,Los Angeles Clippers,Golden State Warriors,True
+Game 2,"Mon, April 21",Golden State Warriors,98,Los Angeles Clippers,138,2014,GoldenStateWarriors_LosAngelesClippers_2014,away_team,Los Angeles Clippers,Los Angeles Clippers,Los Angeles Clippers,Golden State Warriors,True
+Game 3,"Thu, April 24",Los Angeles Clippers,98,Golden State Warriors,96,2014,GoldenStateWarriors_LosAngelesClippers_2014,home_team,Los Angeles Clippers,Los Angeles Clippers,Los Angeles Clippers,Golden State Warriors,True
+Game 4,"Sun, April 27",Los Angeles Clippers,97,Golden State Warriors,118,2014,GoldenStateWarriors_LosAngelesClippers_2014,away_team,Golden State Warriors,Los Angeles Clippers,Los Angeles Clippers,Golden State Warriors,True
+Game 5,"Tue, April 29",Golden State Warriors,103,Los Angeles Clippers,113,2014,GoldenStateWarriors_LosAngelesClippers_2014,away_team,Los Angeles Clippers,Los Angeles Clippers,Los Angeles Clippers,Golden State Warriors,True
+Game 6,"Thu, May 1",Los Angeles Clippers,99,Golden State Warriors,100,2014,GoldenStateWarriors_LosAngelesClippers_2014,away_team,Golden State Warriors,Los Angeles Clippers,Los Angeles Clippers,Golden State Warriors,True
+Game 7,"Sat, May 3",Golden State Warriors,121,Los Angeles Clippers,126,2014,GoldenStateWarriors_LosAngelesClippers_2014,away_team,Los Angeles Clippers,Los Angeles Clippers,Los Angeles Clippers,Golden State Warriors,True
+Game 1,"Sat, April 19",Memphis Grizzlies,86,Oklahoma City Thunder,100,2014,MemphisGrizzlies_OklahomaCityThunder_2014,away_team,Oklahoma City Thunder,Memphis Grizzlies,Oklahoma City Thunder,Memphis Grizzlies,False
+Game 2,"Mon, April 21",Memphis Grizzlies,111,Oklahoma City Thunder,105,2014,MemphisGrizzlies_OklahomaCityThunder_2014,home_team,Memphis Grizzlies,Memphis Grizzlies,Oklahoma City Thunder,Memphis Grizzlies,False
+Game 3,"Thu, April 24",Oklahoma City Thunder,95,Memphis Grizzlies,98,2014,MemphisGrizzlies_OklahomaCityThunder_2014,away_team,Memphis Grizzlies,Memphis Grizzlies,Oklahoma City Thunder,Memphis Grizzlies,False
+Game 4,"Sat, April 26",Oklahoma City Thunder,92,Memphis Grizzlies,89,2014,MemphisGrizzlies_OklahomaCityThunder_2014,home_team,Oklahoma City Thunder,Memphis Grizzlies,Oklahoma City Thunder,Memphis Grizzlies,False
+Game 5,"Tue, April 29",Memphis Grizzlies,100,Oklahoma City Thunder,99,2014,MemphisGrizzlies_OklahomaCityThunder_2014,home_team,Memphis Grizzlies,Memphis Grizzlies,Oklahoma City Thunder,Memphis Grizzlies,False
+Game 6,"Thu, May 1",Oklahoma City Thunder,104,Memphis Grizzlies,84,2014,MemphisGrizzlies_OklahomaCityThunder_2014,home_team,Oklahoma City Thunder,Memphis Grizzlies,Oklahoma City Thunder,Memphis Grizzlies,False
+Game 7,"Sat, May 3",Memphis Grizzlies,109,Oklahoma City Thunder,120,2014,MemphisGrizzlies_OklahomaCityThunder_2014,away_team,Oklahoma City Thunder,Memphis Grizzlies,Oklahoma City Thunder,Memphis Grizzlies,False
+Game 1,"Sun, April 20",Portland Trail Blazers,122,Houston Rockets,120,2014,PortlandTrailBlazers_HoustonRockets_2014,home_team,Portland Trail Blazers,Portland Trail Blazers,Portland Trail Blazers,Houston Rockets,True
+Game 2,"Wed, April 23",Portland Trail Blazers,112,Houston Rockets,105,2014,PortlandTrailBlazers_HoustonRockets_2014,home_team,Portland Trail Blazers,Portland Trail Blazers,Portland Trail Blazers,Houston Rockets,True
+Game 3,"Fri, April 25",Houston Rockets,121,Portland Trail Blazers,116,2014,PortlandTrailBlazers_HoustonRockets_2014,home_team,Houston Rockets,Portland Trail Blazers,Portland Trail Blazers,Houston Rockets,True
+Game 4,"Sun, April 27",Houston Rockets,120,Portland Trail Blazers,123,2014,PortlandTrailBlazers_HoustonRockets_2014,away_team,Portland Trail Blazers,Portland Trail Blazers,Portland Trail Blazers,Houston Rockets,True
+Game 5,"Wed, April 30",Portland Trail Blazers,98,Houston Rockets,108,2014,PortlandTrailBlazers_HoustonRockets_2014,away_team,Houston Rockets,Portland Trail Blazers,Portland Trail Blazers,Houston Rockets,True
+Game 6,"Fri, May 2",Houston Rockets,98,Portland Trail Blazers,99,2014,PortlandTrailBlazers_HoustonRockets_2014,away_team,Portland Trail Blazers,Portland Trail Blazers,Portland Trail Blazers,Houston Rockets,True
+Game 1,"Sun, April 20",Dallas Mavericks,85,San Antonio Spurs,90,2014,DallasMavericks_SanAntonioSpurs_2014,away_team,San Antonio Spurs,San Antonio Spurs,San Antonio Spurs,Dallas Mavericks,True
+Game 2,"Wed, April 23",Dallas Mavericks,113,San Antonio Spurs,92,2014,DallasMavericks_SanAntonioSpurs_2014,home_team,Dallas Mavericks,San Antonio Spurs,San Antonio Spurs,Dallas Mavericks,True
+Game 3,"Sat, April 26",San Antonio Spurs,108,Dallas Mavericks,109,2014,DallasMavericks_SanAntonioSpurs_2014,away_team,Dallas Mavericks,San Antonio Spurs,San Antonio Spurs,Dallas Mavericks,True
+Game 4,"Mon, April 28",San Antonio Spurs,93,Dallas Mavericks,89,2014,DallasMavericks_SanAntonioSpurs_2014,home_team,San Antonio Spurs,San Antonio Spurs,San Antonio Spurs,Dallas Mavericks,True
+Game 5,"Wed, April 30",Dallas Mavericks,103,San Antonio Spurs,109,2014,DallasMavericks_SanAntonioSpurs_2014,away_team,San Antonio Spurs,San Antonio Spurs,San Antonio Spurs,Dallas Mavericks,True
+Game 6,"Fri, May 2",San Antonio Spurs,111,Dallas Mavericks,113,2014,DallasMavericks_SanAntonioSpurs_2014,away_team,Dallas Mavericks,San Antonio Spurs,San Antonio Spurs,Dallas Mavericks,True
+Game 7,"Sun, May 4",Dallas Mavericks,96,San Antonio Spurs,119,2014,DallasMavericks_SanAntonioSpurs_2014,away_team,San Antonio Spurs,San Antonio Spurs,San Antonio Spurs,Dallas Mavericks,True
+Game 1,"Sun, April 19",Brooklyn Nets,92,Atlanta Hawks,99,2015,BrooklynNets_AtlantaHawks_2015,away_team,Atlanta Hawks,Atlanta Hawks,Atlanta Hawks,Brooklyn Nets,True
+Game 2,"Wed, April 22",Brooklyn Nets,91,Atlanta Hawks,96,2015,BrooklynNets_AtlantaHawks_2015,away_team,Atlanta Hawks,Atlanta Hawks,Atlanta Hawks,Brooklyn Nets,True
+Game 3,"Sat, April 25",Atlanta Hawks,83,Brooklyn Nets,91,2015,BrooklynNets_AtlantaHawks_2015,away_team,Brooklyn Nets,Atlanta Hawks,Atlanta Hawks,Brooklyn Nets,True
+Game 4,"Mon, April 27",Atlanta Hawks,115,Brooklyn Nets,120,2015,BrooklynNets_AtlantaHawks_2015,away_team,Brooklyn Nets,Atlanta Hawks,Atlanta Hawks,Brooklyn Nets,True
+Game 5,"Wed, April 29",Brooklyn Nets,97,Atlanta Hawks,107,2015,BrooklynNets_AtlantaHawks_2015,away_team,Atlanta Hawks,Atlanta Hawks,Atlanta Hawks,Brooklyn Nets,True
+Game 6,"Fri, May 1",Atlanta Hawks,111,Brooklyn Nets,87,2015,BrooklynNets_AtlantaHawks_2015,home_team,Atlanta Hawks,Atlanta Hawks,Atlanta Hawks,Brooklyn Nets,True
+Game 1,"Sat, April 18",Milwaukee Bucks,91,Chicago Bulls,103,2015,MilwaukeeBucks_ChicagoBulls_2015,away_team,Chicago Bulls,Chicago Bulls,Chicago Bulls,Milwaukee Bucks,True
+Game 2,"Mon, April 20",Milwaukee Bucks,82,Chicago Bulls,91,2015,MilwaukeeBucks_ChicagoBulls_2015,away_team,Chicago Bulls,Chicago Bulls,Chicago Bulls,Milwaukee Bucks,True
+Game 3,"Thu, April 23",Chicago Bulls,113,Milwaukee Bucks,106,2015,MilwaukeeBucks_ChicagoBulls_2015,home_team,Chicago Bulls,Chicago Bulls,Chicago Bulls,Milwaukee Bucks,True
+Game 4,"Sat, April 25",Chicago Bulls,90,Milwaukee Bucks,92,2015,MilwaukeeBucks_ChicagoBulls_2015,away_team,Milwaukee Bucks,Chicago Bulls,Chicago Bulls,Milwaukee Bucks,True
+Game 5,"Mon, April 27",Milwaukee Bucks,94,Chicago Bulls,88,2015,MilwaukeeBucks_ChicagoBulls_2015,home_team,Milwaukee Bucks,Chicago Bulls,Chicago Bulls,Milwaukee Bucks,True
+Game 6,"Thu, April 30",Chicago Bulls,120,Milwaukee Bucks,66,2015,MilwaukeeBucks_ChicagoBulls_2015,home_team,Chicago Bulls,Chicago Bulls,Chicago Bulls,Milwaukee Bucks,True
+Game 1,"Sun, April 19",Boston Celtics,100,Cleveland Cavaliers,113,2015,BostonCeltics_ClevelandCavaliers_2015,away_team,Cleveland Cavaliers,Cleveland Cavaliers,Cleveland Cavaliers,Cleveland Cavaliers,True
+Game 2,"Tue, April 21",Boston Celtics,91,Cleveland Cavaliers,99,2015,BostonCeltics_ClevelandCavaliers_2015,away_team,Cleveland Cavaliers,Cleveland Cavaliers,Cleveland Cavaliers,Cleveland Cavaliers,True
+Game 3,"Thu, April 23",Cleveland Cavaliers,103,Boston Celtics,95,2015,BostonCeltics_ClevelandCavaliers_2015,home_team,Cleveland Cavaliers,Cleveland Cavaliers,Cleveland Cavaliers,Cleveland Cavaliers,True
+Game 4,"Sun, April 26",Cleveland Cavaliers,101,Boston Celtics,93,2015,BostonCeltics_ClevelandCavaliers_2015,home_team,Cleveland Cavaliers,Cleveland Cavaliers,Cleveland Cavaliers,Cleveland Cavaliers,True
+Game 1,"Sat, April 18",Washington Wizards,93,Toronto Raptors,86,2015,WashingtonWizards_TorontoRaptors_2015,home_team,Washington Wizards,Washington Wizards,Washington Wizards,Washington Wizards,True
+Game 2,"Tue, April 21",Washington Wizards,117,Toronto Raptors,106,2015,WashingtonWizards_TorontoRaptors_2015,home_team,Washington Wizards,Washington Wizards,Washington Wizards,Washington Wizards,True
+Game 3,"Fri, April 24",Toronto Raptors,99,Washington Wizards,106,2015,WashingtonWizards_TorontoRaptors_2015,away_team,Washington Wizards,Washington Wizards,Washington Wizards,Washington Wizards,True
+Game 4,"Sun, April 26",Toronto Raptors,94,Washington Wizards,125,2015,WashingtonWizards_TorontoRaptors_2015,away_team,Washington Wizards,Washington Wizards,Washington Wizards,Washington Wizards,True
+Game 1,"Sat, April 18",New Orleans Pelicans,99,Golden State Warriors,106,2015,NewOrleansPelicans_GoldenStateWarriors_2015,away_team,Golden State Warriors,Golden State Warriors,Golden State Warriors,Golden State Warriors,True
+Game 2,"Mon, April 20",New Orleans Pelicans,87,Golden State Warriors,97,2015,NewOrleansPelicans_GoldenStateWarriors_2015,away_team,Golden State Warriors,Golden State Warriors,Golden State Warriors,Golden State Warriors,True
+Game 3,"Thu, April 23",Golden State Warriors,123,New Orleans Pelicans,119,2015,NewOrleansPelicans_GoldenStateWarriors_2015,home_team,Golden State Warriors,Golden State Warriors,Golden State Warriors,Golden State Warriors,True
+Game 4,"Sat, April 25",Golden State Warriors,109,New Orleans Pelicans,98,2015,NewOrleansPelicans_GoldenStateWarriors_2015,home_team,Golden State Warriors,Golden State Warriors,Golden State Warriors,Golden State Warriors,True
+Game 1,"Sat, April 18",Dallas Mavericks,108,Houston Rockets,118,2015,DallasMavericks_HoustonRockets_2015,away_team,Houston Rockets,Houston Rockets,Houston Rockets,Dallas Mavericks,True
+Game 2,"Tue, April 21",Dallas Mavericks,99,Houston Rockets,111,2015,DallasMavericks_HoustonRockets_2015,away_team,Houston Rockets,Houston Rockets,Houston Rockets,Dallas Mavericks,True
+Game 3,"Fri, April 24",Houston Rockets,130,Dallas Mavericks,128,2015,DallasMavericks_HoustonRockets_2015,home_team,Houston Rockets,Houston Rockets,Houston Rockets,Dallas Mavericks,True
+Game 4,"Sun, April 26",Houston Rockets,109,Dallas Mavericks,121,2015,DallasMavericks_HoustonRockets_2015,away_team,Dallas Mavericks,Houston Rockets,Houston Rockets,Dallas Mavericks,True
+Game 5,"Tue, April 28",Dallas Mavericks,94,Houston Rockets,103,2015,DallasMavericks_HoustonRockets_2015,away_team,Houston Rockets,Houston Rockets,Houston Rockets,Dallas Mavericks,True
+Game 1,"Sun, April 19",San Antonio Spurs,92,Los Angeles Clippers,107,2015,SanAntonioSpurs_LosAngelesClippers_2015,away_team,Los Angeles Clippers,San Antonio Spurs,Los Angeles Clippers,San Antonio Spurs,False
+Game 2,"Wed, April 22",San Antonio Spurs,111,Los Angeles Clippers,107,2015,SanAntonioSpurs_LosAngelesClippers_2015,home_team,San Antonio Spurs,San Antonio Spurs,Los Angeles Clippers,San Antonio Spurs,False
+Game 3,"Fri, April 24",Los Angeles Clippers,73,San Antonio Spurs,100,2015,SanAntonioSpurs_LosAngelesClippers_2015,away_team,San Antonio Spurs,San Antonio Spurs,Los Angeles Clippers,San Antonio Spurs,False
+Game 4,"Sun, April 26",Los Angeles Clippers,114,San Antonio Spurs,105,2015,SanAntonioSpurs_LosAngelesClippers_2015,home_team,Los Angeles Clippers,San Antonio Spurs,Los Angeles Clippers,San Antonio Spurs,False
+Game 5,"Tue, April 28",San Antonio Spurs,111,Los Angeles Clippers,107,2015,SanAntonioSpurs_LosAngelesClippers_2015,home_team,San Antonio Spurs,San Antonio Spurs,Los Angeles Clippers,San Antonio Spurs,False
+Game 6,"Thu, April 30",Los Angeles Clippers,102,San Antonio Spurs,96,2015,SanAntonioSpurs_LosAngelesClippers_2015,home_team,Los Angeles Clippers,San Antonio Spurs,Los Angeles Clippers,San Antonio Spurs,False
+Game 7,"Sat, May 2",San Antonio Spurs,109,Los Angeles Clippers,111,2015,SanAntonioSpurs_LosAngelesClippers_2015,away_team,Los Angeles Clippers,San Antonio Spurs,Los Angeles Clippers,San Antonio Spurs,False
+Game 1,"Sun, April 19",Portland Trail Blazers,86,Memphis Grizzlies,100,2015,PortlandTrailBlazers_MemphisGrizzlies_2015,away_team,Memphis Grizzlies,Memphis Grizzlies,Memphis Grizzlies,Portland Trail Blazers,True
+Game 2,"Wed, April 22",Portland Trail Blazers,82,Memphis Grizzlies,97,2015,PortlandTrailBlazers_MemphisGrizzlies_2015,away_team,Memphis Grizzlies,Memphis Grizzlies,Memphis Grizzlies,Portland Trail Blazers,True
+Game 3,"Sat, April 25",Memphis Grizzlies,115,Portland Trail Blazers,109,2015,PortlandTrailBlazers_MemphisGrizzlies_2015,home_team,Memphis Grizzlies,Memphis Grizzlies,Memphis Grizzlies,Portland Trail Blazers,True
+Game 4,"Mon, April 27",Memphis Grizzlies,92,Portland Trail Blazers,99,2015,PortlandTrailBlazers_MemphisGrizzlies_2015,away_team,Portland Trail Blazers,Memphis Grizzlies,Memphis Grizzlies,Portland Trail Blazers,True
+Game 5,"Wed, April 29",Portland Trail Blazers,93,Memphis Grizzlies,99,2015,PortlandTrailBlazers_MemphisGrizzlies_2015,away_team,Memphis Grizzlies,Memphis Grizzlies,Memphis Grizzlies,Portland Trail Blazers,True
+Game 1,"Sat, April 16",Boston Celtics,101,Atlanta Hawks,102,2016,BostonCeltics_AtlantaHawks_2016,away_team,Atlanta Hawks,Atlanta Hawks,Atlanta Hawks,Boston Celtics,True
+Game 2,"Tue, April 19",Boston Celtics,72,Atlanta Hawks,89,2016,BostonCeltics_AtlantaHawks_2016,away_team,Atlanta Hawks,Atlanta Hawks,Atlanta Hawks,Boston Celtics,True
+Game 3,"Fri, April 22",Atlanta Hawks,103,Boston Celtics,111,2016,BostonCeltics_AtlantaHawks_2016,away_team,Boston Celtics,Atlanta Hawks,Atlanta Hawks,Boston Celtics,True
+Game 4,"Sun, April 24",Atlanta Hawks,95,Boston Celtics,104,2016,BostonCeltics_AtlantaHawks_2016,away_team,Boston Celtics,Atlanta Hawks,Atlanta Hawks,Boston Celtics,True
+Game 5,"Tue, April 26",Boston Celtics,83,Atlanta Hawks,110,2016,BostonCeltics_AtlantaHawks_2016,away_team,Atlanta Hawks,Atlanta Hawks,Atlanta Hawks,Boston Celtics,True
+Game 6,"Thu, April 28",Atlanta Hawks,104,Boston Celtics,92,2016,BostonCeltics_AtlantaHawks_2016,home_team,Atlanta Hawks,Atlanta Hawks,Atlanta Hawks,Boston Celtics,True
+Game 1,"Sun, April 17",Detroit Pistons,101,Cleveland Cavaliers,106,2016,DetroitPistons_ClevelandCavaliers_2016,away_team,Cleveland Cavaliers,Cleveland Cavaliers,Cleveland Cavaliers,Cleveland Cavaliers,True
+Game 2,"Wed, April 20",Detroit Pistons,90,Cleveland Cavaliers,107,2016,DetroitPistons_ClevelandCavaliers_2016,away_team,Cleveland Cavaliers,Cleveland Cavaliers,Cleveland Cavaliers,Cleveland Cavaliers,True
+Game 3,"Fri, April 22",Cleveland Cavaliers,101,Detroit Pistons,91,2016,DetroitPistons_ClevelandCavaliers_2016,home_team,Cleveland Cavaliers,Cleveland Cavaliers,Cleveland Cavaliers,Cleveland Cavaliers,True
+Game 4,"Sun, April 24",Cleveland Cavaliers,100,Detroit Pistons,98,2016,DetroitPistons_ClevelandCavaliers_2016,home_team,Cleveland Cavaliers,Cleveland Cavaliers,Cleveland Cavaliers,Cleveland Cavaliers,True
+Game 1,"Sun, April 17",Charlotte Hornets,91,Miami Heat,123,2016,CharlotteHornets_MiamiHeat_2016,away_team,Miami Heat,Charlotte Hornets,Miami Heat,Charlotte Hornets,False
+Game 2,"Wed, April 20",Charlotte Hornets,103,Miami Heat,115,2016,CharlotteHornets_MiamiHeat_2016,away_team,Miami Heat,Charlotte Hornets,Miami Heat,Charlotte Hornets,False
+Game 3,"Sat, April 23",Miami Heat,80,Charlotte Hornets,96,2016,CharlotteHornets_MiamiHeat_2016,away_team,Charlotte Hornets,Charlotte Hornets,Miami Heat,Charlotte Hornets,False
+Game 4,"Mon, April 25",Miami Heat,85,Charlotte Hornets,89,2016,CharlotteHornets_MiamiHeat_2016,away_team,Charlotte Hornets,Charlotte Hornets,Miami Heat,Charlotte Hornets,False
+Game 5,"Wed, April 27",Charlotte Hornets,90,Miami Heat,88,2016,CharlotteHornets_MiamiHeat_2016,home_team,Charlotte Hornets,Charlotte Hornets,Miami Heat,Charlotte Hornets,False
+Game 6,"Fri, April 29",Miami Heat,97,Charlotte Hornets,90,2016,CharlotteHornets_MiamiHeat_2016,home_team,Miami Heat,Charlotte Hornets,Miami Heat,Charlotte Hornets,False
+Game 7,"Sun, May 1",Charlotte Hornets,73,Miami Heat,106,2016,CharlotteHornets_MiamiHeat_2016,away_team,Miami Heat,Charlotte Hornets,Miami Heat,Charlotte Hornets,False
+Game 1,"Sat, April 16",Indiana Pacers,100,Toronto Raptors,90,2016,IndianaPacers_TorontoRaptors_2016,home_team,Indiana Pacers,Toronto Raptors,Toronto Raptors,Indiana Pacers,True
+Game 2,"Mon, April 18",Indiana Pacers,87,Toronto Raptors,98,2016,IndianaPacers_TorontoRaptors_2016,away_team,Toronto Raptors,Toronto Raptors,Toronto Raptors,Indiana Pacers,True
+Game 3,"Thu, April 21",Toronto Raptors,101,Indiana Pacers,85,2016,IndianaPacers_TorontoRaptors_2016,home_team,Toronto Raptors,Toronto Raptors,Toronto Raptors,Indiana Pacers,True
+Game 4,"Sat, April 23",Toronto Raptors,83,Indiana Pacers,100,2016,IndianaPacers_TorontoRaptors_2016,away_team,Indiana Pacers,Toronto Raptors,Toronto Raptors,Indiana Pacers,True
+Game 5,"Tue, April 26",Indiana Pacers,99,Toronto Raptors,102,2016,IndianaPacers_TorontoRaptors_2016,away_team,Toronto Raptors,Toronto Raptors,Toronto Raptors,Indiana Pacers,True
+Game 6,"Fri, April 29",Toronto Raptors,83,Indiana Pacers,101,2016,IndianaPacers_TorontoRaptors_2016,away_team,Indiana Pacers,Toronto Raptors,Toronto Raptors,Indiana Pacers,True
+Game 7,"Sun, May 1",Indiana Pacers,84,Toronto Raptors,89,2016,IndianaPacers_TorontoRaptors_2016,away_team,Toronto Raptors,Toronto Raptors,Toronto Raptors,Indiana Pacers,True
+Game 1,"Sat, April 16",Houston Rockets,78,Golden State Warriors,104,2016,HoustonRockets_GoldenStateWarriors_2016,away_team,Golden State Warriors,Golden State Warriors,Golden State Warriors,Houston Rockets,True
+Game 2,"Mon, April 18",Houston Rockets,106,Golden State Warriors,115,2016,HoustonRockets_GoldenStateWarriors_2016,away_team,Golden State Warriors,Golden State Warriors,Golden State Warriors,Houston Rockets,True
+Game 3,"Thu, April 21",Golden State Warriors,96,Houston Rockets,97,2016,HoustonRockets_GoldenStateWarriors_2016,away_team,Houston Rockets,Golden State Warriors,Golden State Warriors,Houston Rockets,True
+Game 4,"Sun, April 24",Golden State Warriors,121,Houston Rockets,94,2016,HoustonRockets_GoldenStateWarriors_2016,home_team,Golden State Warriors,Golden State Warriors,Golden State Warriors,Houston Rockets,True
+Game 5,"Wed, April 27",Houston Rockets,81,Golden State Warriors,114,2016,HoustonRockets_GoldenStateWarriors_2016,away_team,Golden State Warriors,Golden State Warriors,Golden State Warriors,Houston Rockets,True
+Game 1,"Sat, April 16",Dallas Mavericks,70,Oklahoma City Thunder,108,2016,DallasMavericks_OklahomaCityThunder_2016,away_team,Oklahoma City Thunder,Oklahoma City Thunder,Oklahoma City Thunder,Dallas Mavericks,True
+Game 2,"Mon, April 18",Dallas Mavericks,85,Oklahoma City Thunder,84,2016,DallasMavericks_OklahomaCityThunder_2016,home_team,Dallas Mavericks,Oklahoma City Thunder,Oklahoma City Thunder,Dallas Mavericks,True
+Game 3,"Thu, April 21",Oklahoma City Thunder,131,Dallas Mavericks,102,2016,DallasMavericks_OklahomaCityThunder_2016,home_team,Oklahoma City Thunder,Oklahoma City Thunder,Oklahoma City Thunder,Dallas Mavericks,True
+Game 4,"Sat, April 23",Oklahoma City Thunder,119,Dallas Mavericks,108,2016,DallasMavericks_OklahomaCityThunder_2016,home_team,Oklahoma City Thunder,Oklahoma City Thunder,Oklahoma City Thunder,Dallas Mavericks,True
+Game 5,"Mon, April 25",Dallas Mavericks,104,Oklahoma City Thunder,118,2016,DallasMavericks_OklahomaCityThunder_2016,away_team,Oklahoma City Thunder,Oklahoma City Thunder,Oklahoma City Thunder,Dallas Mavericks,True
+Game 1,"Sun, April 17",Portland Trail Blazers,95,Los Angeles Clippers,115,2016,PortlandTrailBlazers_LosAngelesClippers_2016,away_team,Los Angeles Clippers,Portland Trail Blazers,Portland Trail Blazers,Los Angeles Clippers,True
+Game 2,"Wed, April 20",Portland Trail Blazers,81,Los Angeles Clippers,102,2016,PortlandTrailBlazers_LosAngelesClippers_2016,away_team,Los Angeles Clippers,Portland Trail Blazers,Portland Trail Blazers,Los Angeles Clippers,True
+Game 3,"Sat, April 23",Los Angeles Clippers,88,Portland Trail Blazers,96,2016,PortlandTrailBlazers_LosAngelesClippers_2016,away_team,Portland Trail Blazers,Portland Trail Blazers,Portland Trail Blazers,Los Angeles Clippers,True
+Game 4,"Mon, April 25",Los Angeles Clippers,84,Portland Trail Blazers,98,2016,PortlandTrailBlazers_LosAngelesClippers_2016,away_team,Portland Trail Blazers,Portland Trail Blazers,Portland Trail Blazers,Los Angeles Clippers,True
+Game 5,"Wed, April 27",Portland Trail Blazers,108,Los Angeles Clippers,98,2016,PortlandTrailBlazers_LosAngelesClippers_2016,home_team,Portland Trail Blazers,Portland Trail Blazers,Portland Trail Blazers,Los Angeles Clippers,True
+Game 6,"Fri, April 29",Los Angeles Clippers,103,Portland Trail Blazers,106,2016,PortlandTrailBlazers_LosAngelesClippers_2016,away_team,Portland Trail Blazers,Portland Trail Blazers,Portland Trail Blazers,Los Angeles Clippers,True
+Game 1,"Sun, April 17",Memphis Grizzlies,74,San Antonio Spurs,106,2016,MemphisGrizzlies_SanAntonioSpurs_2016,away_team,San Antonio Spurs,San Antonio Spurs,San Antonio Spurs,San Antonio Spurs,True
+Game 2,"Tue, April 19",Memphis Grizzlies,68,San Antonio Spurs,94,2016,MemphisGrizzlies_SanAntonioSpurs_2016,away_team,San Antonio Spurs,San Antonio Spurs,San Antonio Spurs,San Antonio Spurs,True
+Game 3,"Fri, April 22",San Antonio Spurs,96,Memphis Grizzlies,87,2016,MemphisGrizzlies_SanAntonioSpurs_2016,home_team,San Antonio Spurs,San Antonio Spurs,San Antonio Spurs,San Antonio Spurs,True
+Game 4,"Sun, April 24",San Antonio Spurs,116,Memphis Grizzlies,95,2016,MemphisGrizzlies_SanAntonioSpurs_2016,home_team,San Antonio Spurs,San Antonio Spurs,San Antonio Spurs,San Antonio Spurs,True
+Game 1,"Sun, April 16",Chicago Bulls,106,Boston Celtics,102,2017,ChicagoBulls_BostonCeltics_2017,home_team,Chicago Bulls,Boston Celtics,Boston Celtics,Chicago Bulls,True
+Game 2,"Tue, April 18",Chicago Bulls,111,Boston Celtics,97,2017,ChicagoBulls_BostonCeltics_2017,home_team,Chicago Bulls,Boston Celtics,Boston Celtics,Chicago Bulls,True
+Game 3,"Fri, April 21",Boston Celtics,104,Chicago Bulls,87,2017,ChicagoBulls_BostonCeltics_2017,home_team,Boston Celtics,Boston Celtics,Boston Celtics,Chicago Bulls,True
+Game 4,"Sun, April 23",Boston Celtics,104,Chicago Bulls,95,2017,ChicagoBulls_BostonCeltics_2017,home_team,Boston Celtics,Boston Celtics,Boston Celtics,Chicago Bulls,True
+Game 5,"Wed, April 26",Chicago Bulls,97,Boston Celtics,108,2017,ChicagoBulls_BostonCeltics_2017,away_team,Boston Celtics,Boston Celtics,Boston Celtics,Chicago Bulls,True
+Game 6,"Fri, April 28",Boston Celtics,105,Chicago Bulls,83,2017,ChicagoBulls_BostonCeltics_2017,home_team,Boston Celtics,Boston Celtics,Boston Celtics,Chicago Bulls,True
+Game 1,"Sat, April 15",Indiana Pacers,108,Cleveland Cavaliers,109,2017,IndianaPacers_ClevelandCavaliers_2017,away_team,Cleveland Cavaliers,Cleveland Cavaliers,Cleveland Cavaliers,Cleveland Cavaliers,True
+Game 2,"Mon, April 17",Indiana Pacers,111,Cleveland Cavaliers,117,2017,IndianaPacers_ClevelandCavaliers_2017,away_team,Cleveland Cavaliers,Cleveland Cavaliers,Cleveland Cavaliers,Cleveland Cavaliers,True
+Game 3,"Thu, April 20",Cleveland Cavaliers,119,Indiana Pacers,114,2017,IndianaPacers_ClevelandCavaliers_2017,home_team,Cleveland Cavaliers,Cleveland Cavaliers,Cleveland Cavaliers,Cleveland Cavaliers,True
+Game 4,"Sun, April 23",Cleveland Cavaliers,106,Indiana Pacers,102,2017,IndianaPacers_ClevelandCavaliers_2017,home_team,Cleveland Cavaliers,Cleveland Cavaliers,Cleveland Cavaliers,Cleveland Cavaliers,True
+Game 1,"Sat, April 15",Milwaukee Bucks,97,Toronto Raptors,83,2017,MilwaukeeBucks_TorontoRaptors_2017,home_team,Milwaukee Bucks,Toronto Raptors,Toronto Raptors,Milwaukee Bucks,True
+Game 2,"Tue, April 18",Milwaukee Bucks,100,Toronto Raptors,106,2017,MilwaukeeBucks_TorontoRaptors_2017,away_team,Toronto Raptors,Toronto Raptors,Toronto Raptors,Milwaukee Bucks,True
+Game 3,"Thu, April 20",Toronto Raptors,77,Milwaukee Bucks,104,2017,MilwaukeeBucks_TorontoRaptors_2017,away_team,Milwaukee Bucks,Toronto Raptors,Toronto Raptors,Milwaukee Bucks,True
+Game 4,"Sat, April 22",Toronto Raptors,87,Milwaukee Bucks,76,2017,MilwaukeeBucks_TorontoRaptors_2017,home_team,Toronto Raptors,Toronto Raptors,Toronto Raptors,Milwaukee Bucks,True
+Game 5,"Mon, April 24",Milwaukee Bucks,93,Toronto Raptors,118,2017,MilwaukeeBucks_TorontoRaptors_2017,away_team,Toronto Raptors,Toronto Raptors,Toronto Raptors,Milwaukee Bucks,True
+Game 6,"Thu, April 27",Toronto Raptors,92,Milwaukee Bucks,89,2017,MilwaukeeBucks_TorontoRaptors_2017,home_team,Toronto Raptors,Toronto Raptors,Toronto Raptors,Milwaukee Bucks,True
+Game 1,"Sun, April 16",Atlanta Hawks,107,Washington Wizards,114,2017,AtlantaHawks_WashingtonWizards_2017,away_team,Washington Wizards,Washington Wizards,Washington Wizards,Atlanta Hawks,True
+Game 2,"Wed, April 19",Atlanta Hawks,101,Washington Wizards,109,2017,AtlantaHawks_WashingtonWizards_2017,away_team,Washington Wizards,Washington Wizards,Washington Wizards,Atlanta Hawks,True
+Game 3,"Sat, April 22",Washington Wizards,98,Atlanta Hawks,116,2017,AtlantaHawks_WashingtonWizards_2017,away_team,Atlanta Hawks,Washington Wizards,Washington Wizards,Atlanta Hawks,True
+Game 4,"Mon, April 24",Washington Wizards,101,Atlanta Hawks,111,2017,AtlantaHawks_WashingtonWizards_2017,away_team,Atlanta Hawks,Washington Wizards,Washington Wizards,Atlanta Hawks,True
+Game 5,"Wed, April 26",Atlanta Hawks,99,Washington Wizards,103,2017,AtlantaHawks_WashingtonWizards_2017,away_team,Washington Wizards,Washington Wizards,Washington Wizards,Atlanta Hawks,True
+Game 6,"Fri, April 28",Washington Wizards,115,Atlanta Hawks,99,2017,AtlantaHawks_WashingtonWizards_2017,home_team,Washington Wizards,Washington Wizards,Washington Wizards,Atlanta Hawks,True
+Game 1,"Sun, April 16",Portland Trail Blazers,109,Golden State Warriors,121,2017,PortlandTrailBlazers_GoldenStateWarriors_2017,away_team,Golden State Warriors,Golden State Warriors,Golden State Warriors,Golden State Warriors,True
+Game 2,"Wed, April 19",Portland Trail Blazers,81,Golden State Warriors,110,2017,PortlandTrailBlazers_GoldenStateWarriors_2017,away_team,Golden State Warriors,Golden State Warriors,Golden State Warriors,Golden State Warriors,True
+Game 3,"Sat, April 22",Golden State Warriors,119,Portland Trail Blazers,113,2017,PortlandTrailBlazers_GoldenStateWarriors_2017,home_team,Golden State Warriors,Golden State Warriors,Golden State Warriors,Golden State Warriors,True
+Game 4,"Mon, April 24",Golden State Warriors,128,Portland Trail Blazers,103,2017,PortlandTrailBlazers_GoldenStateWarriors_2017,home_team,Golden State Warriors,Golden State Warriors,Golden State Warriors,Golden State Warriors,True
+Game 1,"Sun, April 16",Oklahoma City Thunder,87,Houston Rockets,118,2017,OklahomaCityThunder_HoustonRockets_2017,away_team,Houston Rockets,Houston Rockets,Houston Rockets,Oklahoma City Thunder,True
+Game 2,"Wed, April 19",Oklahoma City Thunder,111,Houston Rockets,115,2017,OklahomaCityThunder_HoustonRockets_2017,away_team,Houston Rockets,Houston Rockets,Houston Rockets,Oklahoma City Thunder,True
+Game 3,"Fri, April 21",Houston Rockets,113,Oklahoma City Thunder,115,2017,OklahomaCityThunder_HoustonRockets_2017,away_team,Oklahoma City Thunder,Houston Rockets,Houston Rockets,Oklahoma City Thunder,True
+Game 4,"Sun, April 23",Houston Rockets,113,Oklahoma City Thunder,109,2017,OklahomaCityThunder_HoustonRockets_2017,home_team,Houston Rockets,Houston Rockets,Houston Rockets,Oklahoma City Thunder,True
+Game 5,"Tue, April 25",Oklahoma City Thunder,99,Houston Rockets,105,2017,OklahomaCityThunder_HoustonRockets_2017,away_team,Houston Rockets,Houston Rockets,Houston Rockets,Oklahoma City Thunder,True
+Game 1,"Sat, April 15",Memphis Grizzlies,82,San Antonio Spurs,111,2017,MemphisGrizzlies_SanAntonioSpurs_2017,away_team,San Antonio Spurs,San Antonio Spurs,San Antonio Spurs,Memphis Grizzlies,True
+Game 2,"Mon, April 17",Memphis Grizzlies,82,San Antonio Spurs,96,2017,MemphisGrizzlies_SanAntonioSpurs_2017,away_team,San Antonio Spurs,San Antonio Spurs,San Antonio Spurs,Memphis Grizzlies,True
+Game 3,"Thu, April 20",San Antonio Spurs,94,Memphis Grizzlies,105,2017,MemphisGrizzlies_SanAntonioSpurs_2017,away_team,Memphis Grizzlies,San Antonio Spurs,San Antonio Spurs,Memphis Grizzlies,True
+Game 4,"Sat, April 22",San Antonio Spurs,108,Memphis Grizzlies,110,2017,MemphisGrizzlies_SanAntonioSpurs_2017,away_team,Memphis Grizzlies,San Antonio Spurs,San Antonio Spurs,Memphis Grizzlies,True
+Game 5,"Tue, April 25",Memphis Grizzlies,103,San Antonio Spurs,116,2017,MemphisGrizzlies_SanAntonioSpurs_2017,away_team,San Antonio Spurs,San Antonio Spurs,San Antonio Spurs,Memphis Grizzlies,True
+Game 6,"Thu, April 27",San Antonio Spurs,103,Memphis Grizzlies,96,2017,MemphisGrizzlies_SanAntonioSpurs_2017,home_team,San Antonio Spurs,San Antonio Spurs,San Antonio Spurs,Memphis Grizzlies,True
+Game 1,"Sat, April 15",Utah Jazz,97,Los Angeles Clippers,95,2017,UtahJazz_LosAngelesClippers_2017,home_team,Utah Jazz,Utah Jazz,Utah Jazz,Los Angeles Clippers,True
+Game 2,"Tue, April 18",Utah Jazz,91,Los Angeles Clippers,99,2017,UtahJazz_LosAngelesClippers_2017,away_team,Los Angeles Clippers,Utah Jazz,Utah Jazz,Los Angeles Clippers,True
+Game 3,"Fri, April 21",Los Angeles Clippers,111,Utah Jazz,106,2017,UtahJazz_LosAngelesClippers_2017,home_team,Los Angeles Clippers,Utah Jazz,Utah Jazz,Los Angeles Clippers,True
+Game 4,"Sun, April 23",Los Angeles Clippers,98,Utah Jazz,105,2017,UtahJazz_LosAngelesClippers_2017,away_team,Utah Jazz,Utah Jazz,Utah Jazz,Los Angeles Clippers,True
+Game 5,"Tue, April 25",Utah Jazz,96,Los Angeles Clippers,92,2017,UtahJazz_LosAngelesClippers_2017,home_team,Utah Jazz,Utah Jazz,Utah Jazz,Los Angeles Clippers,True
+Game 6,"Fri, April 28",Los Angeles Clippers,98,Utah Jazz,93,2017,UtahJazz_LosAngelesClippers_2017,home_team,Los Angeles Clippers,Utah Jazz,Utah Jazz,Los Angeles Clippers,True
+Game 7,"Sun, April 30",Utah Jazz,104,Los Angeles Clippers,91,2017,UtahJazz_LosAngelesClippers_2017,home_team,Utah Jazz,Utah Jazz,Utah Jazz,Los Angeles Clippers,True
+Game 1,"Sun, April 15",Milwaukee Bucks,107,Boston Celtics,113,2018,MilwaukeeBucks_BostonCeltics_2018,away_team,Boston Celtics,Boston Celtics,Boston Celtics,Milwaukee Bucks,True
+Game 2,"Tue, April 17",Milwaukee Bucks,106,Boston Celtics,120,2018,MilwaukeeBucks_BostonCeltics_2018,away_team,Boston Celtics,Boston Celtics,Boston Celtics,Milwaukee Bucks,True
+Game 3,"Fri, April 20",Boston Celtics,92,Milwaukee Bucks,116,2018,MilwaukeeBucks_BostonCeltics_2018,away_team,Milwaukee Bucks,Boston Celtics,Boston Celtics,Milwaukee Bucks,True
+Game 4,"Sun, April 22",Boston Celtics,102,Milwaukee Bucks,104,2018,MilwaukeeBucks_BostonCeltics_2018,away_team,Milwaukee Bucks,Boston Celtics,Boston Celtics,Milwaukee Bucks,True
+Game 5,"Tue, April 24",Milwaukee Bucks,87,Boston Celtics,92,2018,MilwaukeeBucks_BostonCeltics_2018,away_team,Boston Celtics,Boston Celtics,Boston Celtics,Milwaukee Bucks,True
+Game 6,"Thu, April 26",Boston Celtics,86,Milwaukee Bucks,97,2018,MilwaukeeBucks_BostonCeltics_2018,away_team,Milwaukee Bucks,Boston Celtics,Boston Celtics,Milwaukee Bucks,True
+Game 7,"Sat, April 28",Milwaukee Bucks,96,Boston Celtics,112,2018,MilwaukeeBucks_BostonCeltics_2018,away_team,Boston Celtics,Boston Celtics,Boston Celtics,Milwaukee Bucks,True
+Game 1,"Sun, April 15",Indiana Pacers,98,Cleveland Cavaliers,80,2018,IndianaPacers_ClevelandCavaliers_2018,home_team,Indiana Pacers,Cleveland Cavaliers,Cleveland Cavaliers,Indiana Pacers,True
+Game 2,"Wed, April 18",Indiana Pacers,97,Cleveland Cavaliers,100,2018,IndianaPacers_ClevelandCavaliers_2018,away_team,Cleveland Cavaliers,Cleveland Cavaliers,Cleveland Cavaliers,Indiana Pacers,True
+Game 3,"Fri, April 20",Cleveland Cavaliers,90,Indiana Pacers,92,2018,IndianaPacers_ClevelandCavaliers_2018,away_team,Indiana Pacers,Cleveland Cavaliers,Cleveland Cavaliers,Indiana Pacers,True
+Game 4,"Sun, April 22",Cleveland Cavaliers,104,Indiana Pacers,100,2018,IndianaPacers_ClevelandCavaliers_2018,home_team,Cleveland Cavaliers,Cleveland Cavaliers,Cleveland Cavaliers,Indiana Pacers,True
+Game 5,"Wed, April 25",Indiana Pacers,95,Cleveland Cavaliers,98,2018,IndianaPacers_ClevelandCavaliers_2018,away_team,Cleveland Cavaliers,Cleveland Cavaliers,Cleveland Cavaliers,Indiana Pacers,True
+Game 6,"Fri, April 27",Cleveland Cavaliers,87,Indiana Pacers,121,2018,IndianaPacers_ClevelandCavaliers_2018,away_team,Indiana Pacers,Cleveland Cavaliers,Cleveland Cavaliers,Indiana Pacers,True
+Game 7,"Sun, April 29",Indiana Pacers,101,Cleveland Cavaliers,105,2018,IndianaPacers_ClevelandCavaliers_2018,away_team,Cleveland Cavaliers,Cleveland Cavaliers,Cleveland Cavaliers,Indiana Pacers,True
+Game 1,"Sat, April 14",Miami Heat,103,Philadelphia 76ers,130,2018,MiamiHeat_Philadelphia76ers_2018,away_team,Philadelphia 76ers,Philadelphia 76ers,Philadelphia 76ers,Miami Heat,True
+Game 2,"Mon, April 16",Miami Heat,113,Philadelphia 76ers,103,2018,MiamiHeat_Philadelphia76ers_2018,home_team,Miami Heat,Philadelphia 76ers,Philadelphia 76ers,Miami Heat,True
+Game 3,"Thu, April 19",Philadelphia 76ers,128,Miami Heat,108,2018,MiamiHeat_Philadelphia76ers_2018,home_team,Philadelphia 76ers,Philadelphia 76ers,Philadelphia 76ers,Miami Heat,True
+Game 4,"Sat, April 21",Philadelphia 76ers,106,Miami Heat,102,2018,MiamiHeat_Philadelphia76ers_2018,home_team,Philadelphia 76ers,Philadelphia 76ers,Philadelphia 76ers,Miami Heat,True
+Game 5,"Tue, April 24",Miami Heat,91,Philadelphia 76ers,104,2018,MiamiHeat_Philadelphia76ers_2018,away_team,Philadelphia 76ers,Philadelphia 76ers,Philadelphia 76ers,Miami Heat,True
+Game 1,"Sat, April 14",Washington Wizards,106,Toronto Raptors,114,2018,WashingtonWizards_TorontoRaptors_2018,away_team,Toronto Raptors,Toronto Raptors,Toronto Raptors,Washington Wizards,True
+Game 2,"Tue, April 17",Washington Wizards,119,Toronto Raptors,130,2018,WashingtonWizards_TorontoRaptors_2018,away_team,Toronto Raptors,Toronto Raptors,Toronto Raptors,Washington Wizards,True
+Game 3,"Fri, April 20",Toronto Raptors,103,Washington Wizards,122,2018,WashingtonWizards_TorontoRaptors_2018,away_team,Washington Wizards,Toronto Raptors,Toronto Raptors,Washington Wizards,True
+Game 4,"Sun, April 22",Toronto Raptors,98,Washington Wizards,106,2018,WashingtonWizards_TorontoRaptors_2018,away_team,Washington Wizards,Toronto Raptors,Toronto Raptors,Washington Wizards,True
+Game 5,"Wed, April 25",Washington Wizards,98,Toronto Raptors,108,2018,WashingtonWizards_TorontoRaptors_2018,away_team,Toronto Raptors,Toronto Raptors,Toronto Raptors,Washington Wizards,True
+Game 6,"Fri, April 27",Toronto Raptors,102,Washington Wizards,92,2018,WashingtonWizards_TorontoRaptors_2018,home_team,Toronto Raptors,Toronto Raptors,Toronto Raptors,Washington Wizards,True
+Game 1,"Sat, April 14",San Antonio Spurs,92,Golden State Warriors,113,2018,SanAntonioSpurs_GoldenStateWarriors_2018,away_team,Golden State Warriors,Golden State Warriors,Golden State Warriors,San Antonio Spurs,True
+Game 2,"Mon, April 16",San Antonio Spurs,101,Golden State Warriors,116,2018,SanAntonioSpurs_GoldenStateWarriors_2018,away_team,Golden State Warriors,Golden State Warriors,Golden State Warriors,San Antonio Spurs,True
+Game 3,"Thu, April 19",Golden State Warriors,110,San Antonio Spurs,97,2018,SanAntonioSpurs_GoldenStateWarriors_2018,home_team,Golden State Warriors,Golden State Warriors,Golden State Warriors,San Antonio Spurs,True
+Game 4,"Sun, April 22",Golden State Warriors,90,San Antonio Spurs,103,2018,SanAntonioSpurs_GoldenStateWarriors_2018,away_team,San Antonio Spurs,Golden State Warriors,Golden State Warriors,San Antonio Spurs,True
+Game 5,"Tue, April 24",San Antonio Spurs,91,Golden State Warriors,99,2018,SanAntonioSpurs_GoldenStateWarriors_2018,away_team,Golden State Warriors,Golden State Warriors,Golden State Warriors,San Antonio Spurs,True
+Game 1,"Sun, April 15",Minnesota Timberwolves,101,Houston Rockets,104,2018,MinnesotaTimberwolves_HoustonRockets_2018,away_team,Houston Rockets,Houston Rockets,Houston Rockets,Minnesota Timberwolves,True
+Game 2,"Wed, April 18",Minnesota Timberwolves,82,Houston Rockets,102,2018,MinnesotaTimberwolves_HoustonRockets_2018,away_team,Houston Rockets,Houston Rockets,Houston Rockets,Minnesota Timberwolves,True
+Game 3,"Sat, April 21",Houston Rockets,105,Minnesota Timberwolves,121,2018,MinnesotaTimberwolves_HoustonRockets_2018,away_team,Minnesota Timberwolves,Houston Rockets,Houston Rockets,Minnesota Timberwolves,True
+Game 4,"Mon, April 23",Houston Rockets,119,Minnesota Timberwolves,100,2018,MinnesotaTimberwolves_HoustonRockets_2018,home_team,Houston Rockets,Houston Rockets,Houston Rockets,Minnesota Timberwolves,True
+Game 5,"Wed, April 25",Minnesota Timberwolves,104,Houston Rockets,122,2018,MinnesotaTimberwolves_HoustonRockets_2018,away_team,Houston Rockets,Houston Rockets,Houston Rockets,Minnesota Timberwolves,True
+Game 1,"Sat, April 14",New Orleans Pelicans,97,Portland Trail Blazers,95,2018,NewOrleansPelicans_PortlandTrailBlazers_2018,home_team,New Orleans Pelicans,New Orleans Pelicans,New Orleans Pelicans,New Orleans Pelicans,True
+Game 2,"Tue, April 17",New Orleans Pelicans,111,Portland Trail Blazers,102,2018,NewOrleansPelicans_PortlandTrailBlazers_2018,home_team,New Orleans Pelicans,New Orleans Pelicans,New Orleans Pelicans,New Orleans Pelicans,True
+Game 3,"Thu, April 19",Portland Trail Blazers,102,New Orleans Pelicans,119,2018,NewOrleansPelicans_PortlandTrailBlazers_2018,away_team,New Orleans Pelicans,New Orleans Pelicans,New Orleans Pelicans,New Orleans Pelicans,True
+Game 4,"Sat, April 21",Portland Trail Blazers,123,New Orleans Pelicans,131,2018,NewOrleansPelicans_PortlandTrailBlazers_2018,away_team,New Orleans Pelicans,New Orleans Pelicans,New Orleans Pelicans,New Orleans Pelicans,True
+Game 1,"Sun, April 15",Utah Jazz,108,Oklahoma City Thunder,116,2018,UtahJazz_OklahomaCityThunder_2018,away_team,Oklahoma City Thunder,Utah Jazz,Utah Jazz,Oklahoma City Thunder,True
+Game 2,"Wed, April 18",Utah Jazz,102,Oklahoma City Thunder,95,2018,UtahJazz_OklahomaCityThunder_2018,home_team,Utah Jazz,Utah Jazz,Utah Jazz,Oklahoma City Thunder,True
+Game 3,"Sat, April 21",Oklahoma City Thunder,102,Utah Jazz,115,2018,UtahJazz_OklahomaCityThunder_2018,away_team,Utah Jazz,Utah Jazz,Utah Jazz,Oklahoma City Thunder,True
+Game 4,"Mon, April 23",Oklahoma City Thunder,96,Utah Jazz,113,2018,UtahJazz_OklahomaCityThunder_2018,away_team,Utah Jazz,Utah Jazz,Utah Jazz,Oklahoma City Thunder,True
+Game 5,"Wed, April 25",Utah Jazz,99,Oklahoma City Thunder,107,2018,UtahJazz_OklahomaCityThunder_2018,away_team,Oklahoma City Thunder,Utah Jazz,Utah Jazz,Oklahoma City Thunder,True
+Game 6,"Fri, April 27",Oklahoma City Thunder,91,Utah Jazz,96,2018,UtahJazz_OklahomaCityThunder_2018,away_team,Utah Jazz,Utah Jazz,Utah Jazz,Oklahoma City Thunder,True
